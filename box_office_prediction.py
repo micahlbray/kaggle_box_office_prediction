@@ -5,7 +5,6 @@ Analyzes The Movie Database data set to predict box office revenue for a movie
 """
 
 import pandas as pd
-import json
 import ast
 
 train_file = 'train.csv'
