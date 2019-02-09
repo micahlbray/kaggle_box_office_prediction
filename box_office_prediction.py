@@ -19,7 +19,7 @@ cols = ['belongs_to_collection', 'genres', 'production_companies', 'production_c
         'spoken_languages', 'Keywords', 'cast', 'crew']
 for col in cols:
     train_df[cols] = train_df[cols].fillna('[]')
-    for i in range(1,5): #range(len(train_df)):
+    for i in range(len(train_df)):
         data = ast.literal_eval(train_df.loc[i, col])
         if len(data) > 0:
             for j in range(len(data)):
