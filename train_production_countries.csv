@@ -1,0 +1,3980 @@
+iso_3166_1,movie_id,name
+US,1.0,United States of America
+US,2.0,United States of America
+US,3.0,United States of America
+IN,4.0,India
+KR,5.0,South Korea
+US,7.0,United States of America
+CA,7.0,Canada
+US,9.0,United States of America
+US,10.0,United States of America
+US,11.0,United States of America
+US,12.0,United States of America
+US,13.0,United States of America
+US,14.0,United States of America
+US,15.0,United States of America
+RS,16.0,Serbia
+US,17.0,United States of America
+GB,18.0,United Kingdom
+AT,19.0,Austria
+DE,19.0,Germany
+GB,19.0,United Kingdom
+FR,20.0,France
+US,21.0,United States of America
+US,22.0,United States of America
+US,23.0,United States of America
+US,24.0,United States of America
+NZ,25.0,New Zealand
+JP,26.0,Japan
+US,26.0,United States of America
+US,27.0,United States of America
+CA,28.0,Canada
+IE,28.0,Ireland
+US,29.0,United States of America
+US,30.0,United States of America
+FR,31.0,France
+AT,32.0,Austria
+FR,32.0,France
+DE,32.0,Germany
+IT,32.0,Italy
+US,32.0,United States of America
+US,33.0,United States of America
+US,34.0,United States of America
+NZ,34.0,New Zealand
+CA,34.0,Canada
+IL,34.0,Israel
+JP,34.0,Japan
+US,35.0,United States of America
+US,36.0,United States of America
+IE,37.0,Ireland
+GB,37.0,United Kingdom
+US,37.0,United States of America
+US,38.0,United States of America
+US,40.0,United States of America
+US,41.0,United States of America
+US,42.0,United States of America
+US,43.0,United States of America
+US,44.0,United States of America
+US,45.0,United States of America
+IT,46.0,Italy
+US,47.0,United States of America
+US,48.0,United States of America
+US,49.0,United States of America
+US,50.0,United States of America
+BE,51.0,Belgium
+US,52.0,United States of America
+US,53.0,United States of America
+US,54.0,United States of America
+US,55.0,United States of America
+US,56.0,United States of America
+FR,57.0,France
+DE,57.0,Germany
+GB,58.0,United Kingdom
+US,58.0,United States of America
+US,59.0,United States of America
+US,60.0,United States of America
+IT,61.0,Italy
+GB,61.0,United Kingdom
+US,61.0,United States of America
+CZ,61.0,Czech Republic
+DE,61.0,Germany
+US,62.0,United States of America
+US,63.0,United States of America
+US,64.0,United States of America
+US,65.0,United States of America
+US,66.0,United States of America
+US,67.0,United States of America
+CN,68.0,China
+FR,68.0,France
+JP,68.0,Japan
+US,69.0,United States of America
+JP,70.0,Japan
+US,70.0,United States of America
+DE,71.0,Germany
+US,71.0,United States of America
+BR,72.0,Brazil
+AR,72.0,Argentina
+CL,72.0,Chile
+FR,72.0,France
+DE,72.0,Germany
+PE,72.0,Peru
+GB,72.0,United Kingdom
+US,72.0,United States of America
+US,73.0,United States of America
+CZ,74.0,Czech Republic
+US,75.0,United States of America
+GB,76.0,United Kingdom
+US,76.0,United States of America
+IN,77.0,India
+US,78.0,United States of America
+US,79.0,United States of America
+GB,80.0,United Kingdom
+US,80.0,United States of America
+DE,81.0,Germany
+GB,81.0,United Kingdom
+US,81.0,United States of America
+US,82.0,United States of America
+DE,83.0,Germany
+US,83.0,United States of America
+US,84.0,United States of America
+FR,85.0,France
+US,85.0,United States of America
+US,86.0,United States of America
+US,87.0,United States of America
+HK,88.0,Hong Kong
+CZ,89.0,Czech Republic
+GB,89.0,United Kingdom
+US,89.0,United States of America
+FR,90.0,France
+US,90.0,United States of America
+US,91.0,United States of America
+IT,92.0,Italy
+FR,93.0,France
+GB,94.0,United Kingdom
+FR,95.0,France
+US,95.0,United States of America
+RU,96.0,Russia
+FR,97.0,France
+RU,98.0,Russia
+ES,99.0,Spain
+US,100.0,United States of America
+US,101.0,United States of America
+US,102.0,United States of America
+KR,103.0,South Korea
+US,104.0,United States of America
+TR,105.0,Turkey
+GB,106.0,United Kingdom
+US,107.0,United States of America
+US,108.0,United States of America
+GB,109.0,United Kingdom
+US,109.0,United States of America
+US,110.0,United States of America
+US,111.0,United States of America
+US,112.0,United States of America
+US,113.0,United States of America
+US,114.0,United States of America
+NZ,115.0,New Zealand
+US,115.0,United States of America
+US,116.0,United States of America
+CN,117.0,China
+US,118.0,United States of America
+US,119.0,United States of America
+AU,120.0,Australia
+HK,120.0,Hong Kong
+US,121.0,United States of America
+US,122.0,United States of America
+US,123.0,United States of America
+US,124.0,United States of America
+US,125.0,United States of America
+AU,126.0,Australia
+CN,126.0,China
+DE,126.0,Germany
+US,127.0,United States of America
+US,128.0,United States of America
+CA,129.0,Canada
+US,130.0,United States of America
+GB,131.0,United Kingdom
+US,132.0,United States of America
+US,133.0,United States of America
+GB,133.0,United Kingdom
+DE,133.0,Germany
+SE,133.0,Sweden
+US,134.0,United States of America
+GB,135.0,United Kingdom
+AU,136.0,Australia
+US,137.0,United States of America
+US,138.0,United States of America
+US,139.0,United States of America
+US,140.0,United States of America
+US,141.0,United States of America
+GB,142.0,United Kingdom
+LU,142.0,Luxembourg
+US,143.0,United States of America
+DE,144.0,Germany
+US,144.0,United States of America
+US,145.0,United States of America
+US,146.0,United States of America
+US,147.0,United States of America
+KR,148.0,South Korea
+FR,148.0,France
+CZ,148.0,Czech Republic
+US,148.0,United States of America
+US,149.0,United States of America
+ZA,150.0,South Africa
+US,150.0,United States of America
+US,151.0,United States of America
+US,152.0,United States of America
+GB,153.0,United Kingdom
+US,154.0,United States of America
+US,155.0,United States of America
+AU,156.0,Australia
+CA,156.0,Canada
+US,156.0,United States of America
+RU,157.0,Russia
+US,158.0,United States of America
+US,159.0,United States of America
+JP,160.0,Japan
+US,160.0,United States of America
+US,161.0,United States of America
+US,162.0,United States of America
+US,163.0,United States of America
+US,164.0,United States of America
+US,165.0,United States of America
+US,166.0,United States of America
+US,167.0,United States of America
+US,168.0,United States of America
+GB,169.0,United Kingdom
+AU,170.0,Australia
+US,171.0,United States of America
+US,172.0,United States of America
+US,173.0,United States of America
+US,174.0,United States of America
+AU,175.0,Australia
+GB,175.0,United Kingdom
+DE,176.0,Germany
+US,176.0,United States of America
+CH,177.0,Switzerland
+US,177.0,United States of America
+US,178.0,United States of America
+US,179.0,United States of America
+GB,180.0,United Kingdom
+US,180.0,United States of America
+US,181.0,United States of America
+DE,181.0,Germany
+IE,182.0,Ireland
+GB,182.0,United Kingdom
+US,183.0,United States of America
+JP,184.0,Japan
+GB,184.0,United Kingdom
+US,185.0,United States of America
+US,186.0,United States of America
+CA,187.0,Canada
+US,188.0,United States of America
+US,189.0,United States of America
+US,190.0,United States of America
+US,191.0,United States of America
+US,192.0,United States of America
+GB,193.0,United Kingdom
+US,194.0,United States of America
+US,195.0,United States of America
+IR,196.0,Iran
+GB,197.0,United Kingdom
+US,197.0,United States of America
+US,198.0,United States of America
+US,199.0,United States of America
+US,200.0,United States of America
+DE,201.0,Germany
+US,201.0,United States of America
+GB,202.0,United Kingdom
+US,202.0,United States of America
+US,203.0,United States of America
+US,204.0,United States of America
+US,205.0,United States of America
+US,206.0,United States of America
+US,207.0,United States of America
+JP,208.0,Japan
+US,208.0,United States of America
+CA,209.0,Canada
+GB,209.0,United Kingdom
+US,209.0,United States of America
+US,210.0,United States of America
+MA,210.0,Morocco
+FR,211.0,France
+GB,211.0,United Kingdom
+LU,211.0,Luxembourg
+NL,211.0,Netherlands
+US,211.0,United States of America
+US,212.0,United States of America
+US,213.0,United States of America
+IN,214.0,India
+US,215.0,United States of America
+US,216.0,United States of America
+JP,217.0,Japan
+US,218.0,United States of America
+SE,219.0,Sweden
+FR,220.0,France
+US,220.0,United States of America
+CN,221.0,China
+HK,221.0,Hong Kong
+US,222.0,United States of America
+US,223.0,United States of America
+FR,224.0,France
+US,224.0,United States of America
+US,225.0,United States of America
+AU,226.0,Australia
+FR,226.0,France
+GB,226.0,United Kingdom
+US,226.0,United States of America
+US,227.0,United States of America
+GB,228.0,United Kingdom
+US,228.0,United States of America
+US,229.0,United States of America
+US,230.0,United States of America
+DE,231.0,Germany
+IE,231.0,Ireland
+GB,231.0,United Kingdom
+US,231.0,United States of America
+US,232.0,United States of America
+FR,233.0,France
+GB,233.0,United Kingdom
+US,234.0,United States of America
+GB,235.0,United Kingdom
+US,235.0,United States of America
+US,236.0,United States of America
+US,237.0,United States of America
+ES,238.0,Spain
+US,239.0,United States of America
+US,240.0,United States of America
+US,241.0,United States of America
+IN,242.0,India
+US,242.0,United States of America
+JP,243.0,Japan
+US,244.0,United States of America
+US,245.0,United States of America
+US,246.0,United States of America
+US,247.0,United States of America
+AT,248.0,Austria
+DE,248.0,Germany
+IT,248.0,Italy
+AU,249.0,Australia
+US,249.0,United States of America
+GB,250.0,United Kingdom
+FR,251.0,France
+FR,252.0,France
+DE,252.0,Germany
+IT,252.0,Italy
+US,252.0,United States of America
+US,253.0,United States of America
+RU,254.0,Russia
+PH,255.0,Philippines
+US,256.0,United States of America
+IS,257.0,Iceland
+US,257.0,United States of America
+GB,257.0,United Kingdom
+US,258.0,United States of America
+JP,259.0,Japan
+US,261.0,United States of America
+DE,262.0,Germany
+GB,262.0,United Kingdom
+US,262.0,United States of America
+JP,263.0,Japan
+US,264.0,United States of America
+US,265.0,United States of America
+US,266.0,United States of America
+US,267.0,United States of America
+US,268.0,United States of America
+DE,269.0,Germany
+GB,269.0,United Kingdom
+US,269.0,United States of America
+US,271.0,United States of America
+US,272.0,United States of America
+US,273.0,United States of America
+US,274.0,United States of America
+US,275.0,United States of America
+US,276.0,United States of America
+IN,277.0,India
+US,278.0,United States of America
+US,279.0,United States of America
+US,280.0,United States of America
+US,281.0,United States of America
+US,282.0,United States of America
+US,283.0,United States of America
+FR,284.0,France
+US,285.0,United States of America
+IE,286.0,Ireland
+GB,286.0,United Kingdom
+US,286.0,United States of America
+US,287.0,United States of America
+US,288.0,United States of America
+US,289.0,United States of America
+IE,290.0,Ireland
+US,290.0,United States of America
+GB,291.0,United Kingdom
+US,292.0,United States of America
+US,293.0,United States of America
+BR,294.0,Brazil
+DE,295.0,Germany
+US,295.0,United States of America
+RU,296.0,Russia
+DE,297.0,Germany
+US,297.0,United States of America
+US,298.0,United States of America
+US,299.0,United States of America
+US,300.0,United States of America
+US,301.0,United States of America
+US,302.0,United States of America
+US,303.0,United States of America
+US,304.0,United States of America
+US,305.0,United States of America
+US,306.0,United States of America
+IT,306.0,Italy
+US,307.0,United States of America
+US,308.0,United States of America
+US,309.0,United States of America
+US,310.0,United States of America
+FR,311.0,France
+US,311.0,United States of America
+CA,311.0,Canada
+CA,312.0,Canada
+FR,312.0,France
+US,313.0,United States of America
+DK,314.0,Denmark
+SE,314.0,Sweden
+US,314.0,United States of America
+US,315.0,United States of America
+US,316.0,United States of America
+GB,317.0,United Kingdom
+US,318.0,United States of America
+JP,319.0,Japan
+US,320.0,United States of America
+GB,321.0,United Kingdom
+US,322.0,United States of America
+CA,323.0,Canada
+HK,323.0,Hong Kong
+TW,323.0,Taiwan
+US,323.0,United States of America
+US,324.0,United States of America
+US,325.0,United States of America
+US,326.0,United States of America
+US,327.0,United States of America
+FR,328.0,France
+US,329.0,United States of America
+AU,330.0,Australia
+CA,331.0,Canada
+CN,332.0,China
+US,333.0,United States of America
+US,334.0,United States of America
+IN,335.0,India
+US,336.0,United States of America
+US,337.0,United States of America
+FR,337.0,France
+JP,338.0,Japan
+KR,338.0,South Korea
+GB,339.0,United Kingdom
+US,339.0,United States of America
+US,340.0,United States of America
+GB,341.0,United Kingdom
+US,342.0,United States of America
+US,343.0,United States of America
+AU,344.0,Australia
+TW,344.0,Taiwan
+RU,345.0,Russia
+US,345.0,United States of America
+US,346.0,United States of America
+US,347.0,United States of America
+GB,348.0,United Kingdom
+JP,349.0,Japan
+US,350.0,United States of America
+HK,351.0,Hong Kong
+US,351.0,United States of America
+GB,352.0,United Kingdom
+US,352.0,United States of America
+US,353.0,United States of America
+US,354.0,United States of America
+CA,355.0,Canada
+DE,355.0,Germany
+US,355.0,United States of America
+US,356.0,United States of America
+DE,357.0,Germany
+ES,357.0,Spain
+GB,357.0,United Kingdom
+US,357.0,United States of America
+US,358.0,United States of America
+US,359.0,United States of America
+GB,360.0,United Kingdom
+NZ,360.0,New Zealand
+US,360.0,United States of America
+MN,361.0,Mongolia
+US,361.0,United States of America
+GB,361.0,United Kingdom
+IN,362.0,India
+RU,363.0,Russia
+FR,364.0,France
+BE,364.0,Belgium
+US,365.0,United States of America
+US,366.0,United States of America
+US,367.0,United States of America
+FR,368.0,France
+US,369.0,United States of America
+US,370.0,United States of America
+GB,371.0,United Kingdom
+IN,372.0,India
+US,373.0,United States of America
+US,374.0,United States of America
+US,375.0,United States of America
+GB,376.0,United Kingdom
+US,377.0,United States of America
+US,378.0,United States of America
+GB,379.0,United Kingdom
+CA,380.0,Canada
+GB,380.0,United Kingdom
+DE,381.0,Germany
+US,381.0,United States of America
+FR,382.0,France
+GB,382.0,United Kingdom
+US,383.0,United States of America
+FR,384.0,France
+GB,384.0,United Kingdom
+US,385.0,United States of America
+GB,386.0,United Kingdom
+US,386.0,United States of America
+FR,386.0,France
+DE,386.0,Germany
+US,387.0,United States of America
+BR,388.0,Brazil
+US,388.0,United States of America
+US,389.0,United States of America
+US,390.0,United States of America
+IT,391.0,Italy
+RU,392.0,Russia
+FR,393.0,France
+CH,393.0,Switzerland
+US,394.0,United States of America
+US,395.0,United States of America
+US,396.0,United States of America
+US,397.0,United States of America
+GB,398.0,United Kingdom
+US,398.0,United States of America
+US,399.0,United States of America
+US,400.0,United States of America
+US,401.0,United States of America
+IN,402.0,India
+GB,403.0,United Kingdom
+US,403.0,United States of America
+US,404.0,United States of America
+US,405.0,United States of America
+US,406.0,United States of America
+US,407.0,United States of America
+FR,408.0,France
+US,408.0,United States of America
+US,409.0,United States of America
+US,410.0,United States of America
+GB,411.0,United Kingdom
+US,411.0,United States of America
+US,412.0,United States of America
+US,413.0,United States of America
+NL,414.0,Netherlands
+US,415.0,United States of America
+DE,416.0,Germany
+US,416.0,United States of America
+JP,417.0,Japan
+IT,418.0,Italy
+US,419.0,United States of America
+IN,420.0,India
+ES,421.0,Spain
+US,421.0,United States of America
+US,422.0,United States of America
+US,423.0,United States of America
+HU,424.0,Hungary
+RS,424.0,Serbia
+ES,424.0,Spain
+US,424.0,United States of America
+IE,425.0,Ireland
+FR,426.0,France
+US,427.0,United States of America
+ES,428.0,Spain
+AU,429.0,Australia
+US,430.0,United States of America
+US,431.0,United States of America
+CA,432.0,Canada
+US,432.0,United States of America
+FR,433.0,France
+US,433.0,United States of America
+MX,434.0,Mexico
+US,434.0,United States of America
+US,435.0,United States of America
+US,436.0,United States of America
+US,437.0,United States of America
+FR,438.0,France
+GB,438.0,United Kingdom
+US,439.0,United States of America
+BR,440.0,Brazil
+FR,440.0,France
+US,441.0,United States of America
+CA,442.0,Canada
+US,443.0,United States of America
+US,444.0,United States of America
+CA,445.0,Canada
+FR,445.0,France
+BE,445.0,Belgium
+US,447.0,United States of America
+AU,448.0,Australia
+US,448.0,United States of America
+DE,449.0,Germany
+US,449.0,United States of America
+CZ,450.0,Czech Republic
+DE,450.0,Germany
+GB,450.0,United Kingdom
+US,450.0,United States of America
+GB,451.0,United Kingdom
+US,451.0,United States of America
+US,452.0,United States of America
+US,453.0,United States of America
+CA,454.0,Canada
+US,454.0,United States of America
+US,455.0,United States of America
+IE,456.0,Ireland
+GB,456.0,United Kingdom
+DK,456.0,Denmark
+US,457.0,United States of America
+CA,459.0,Canada
+US,459.0,United States of America
+US,460.0,United States of America
+NL,461.0,Netherlands
+US,462.0,United States of America
+US,463.0,United States of America
+US,464.0,United States of America
+US,465.0,United States of America
+US,466.0,United States of America
+US,467.0,United States of America
+US,468.0,United States of America
+FR,469.0,France
+AU,469.0,Australia
+US,470.0,United States of America
+DE,472.0,Germany
+US,472.0,United States of America
+US,473.0,United States of America
+AT,474.0,Austria
+HU,474.0,Hungary
+US,475.0,United States of America
+RU,475.0,Russia
+MX,476.0,Mexico
+US,477.0,United States of America
+US,478.0,United States of America
+US,479.0,United States of America
+US,480.0,United States of America
+US,481.0,United States of America
+IN,482.0,India
+US,483.0,United States of America
+US,484.0,United States of America
+US,485.0,United States of America
+US,486.0,United States of America
+US,487.0,United States of America
+RU,488.0,Russia
+FR,489.0,France
+US,489.0,United States of America
+US,490.0,United States of America
+AU,491.0,Australia
+US,492.0,United States of America
+FR,493.0,France
+US,493.0,United States of America
+US,494.0,United States of America
+US,495.0,United States of America
+US,496.0,United States of America
+US,497.0,United States of America
+US,498.0,United States of America
+US,500.0,United States of America
+FR,501.0,France
+IT,501.0,Italy
+US,502.0,United States of America
+US,503.0,United States of America
+US,504.0,United States of America
+US,505.0,United States of America
+FR,506.0,France
+US,507.0,United States of America
+US,508.0,United States of America
+US,509.0,United States of America
+US,510.0,United States of America
+US,511.0,United States of America
+US,512.0,United States of America
+US,513.0,United States of America
+JP,514.0,Japan
+US,514.0,United States of America
+RO,515.0,Romania
+US,515.0,United States of America
+US,516.0,United States of America
+IN,517.0,India
+GB,518.0,United Kingdom
+US,519.0,United States of America
+US,520.0,United States of America
+CA,521.0,Canada
+US,521.0,United States of America
+US,522.0,United States of America
+CA,523.0,Canada
+US,523.0,United States of America
+US,524.0,United States of America
+IN,525.0,India
+GB,526.0,United Kingdom
+HU,527.0,Hungary
+US,527.0,United States of America
+US,528.0,United States of America
+GB,528.0,United Kingdom
+DE,528.0,Germany
+DE,529.0,Germany
+US,529.0,United States of America
+US,530.0,United States of America
+US,531.0,United States of America
+GB,532.0,United Kingdom
+US,533.0,United States of America
+US,534.0,United States of America
+AU,535.0,Australia
+GB,535.0,United Kingdom
+US,535.0,United States of America
+IT,536.0,Italy
+US,536.0,United States of America
+US,537.0,United States of America
+US,538.0,United States of America
+US,539.0,United States of America
+US,540.0,United States of America
+US,541.0,United States of America
+US,542.0,United States of America
+US,543.0,United States of America
+NZ,544.0,New Zealand
+US,544.0,United States of America
+US,545.0,United States of America
+US,546.0,United States of America
+US,547.0,United States of America
+US,548.0,United States of America
+US,549.0,United States of America
+GB,550.0,United Kingdom
+US,551.0,United States of America
+MX,552.0,Mexico
+ZA,552.0,South Africa
+US,552.0,United States of America
+US,553.0,United States of America
+US,554.0,United States of America
+JP,555.0,Japan
+US,556.0,United States of America
+AU,557.0,Australia
+US,558.0,United States of America
+DE,559.0,Germany
+GB,559.0,United Kingdom
+US,559.0,United States of America
+US,560.0,United States of America
+US,561.0,United States of America
+US,562.0,United States of America
+US,563.0,United States of America
+US,564.0,United States of America
+ES,565.0,Spain
+GB,566.0,United Kingdom
+US,567.0,United States of America
+US,568.0,United States of America
+US,569.0,United States of America
+US,570.0,United States of America
+GB,571.0,United Kingdom
+US,572.0,United States of America
+GB,573.0,United Kingdom
+US,573.0,United States of America
+US,574.0,United States of America
+FR,575.0,France
+IE,575.0,Ireland
+GB,575.0,United Kingdom
+US,575.0,United States of America
+FR,576.0,France
+GB,576.0,United Kingdom
+US,576.0,United States of America
+US,577.0,United States of America
+CA,578.0,Canada
+FR,578.0,France
+US,579.0,United States of America
+US,580.0,United States of America
+GB,581.0,United Kingdom
+US,582.0,United States of America
+US,583.0,United States of America
+US,584.0,United States of America
+US,585.0,United States of America
+IN,586.0,India
+IN,587.0,India
+FR,588.0,France
+AU,588.0,Australia
+CA,588.0,Canada
+DE,588.0,Germany
+US,589.0,United States of America
+US,590.0,United States of America
+US,591.0,United States of America
+RU,592.0,Russia
+US,593.0,United States of America
+GR,594.0,Greece
+US,594.0,United States of America
+US,595.0,United States of America
+FR,596.0,France
+US,597.0,United States of America
+US,598.0,United States of America
+US,599.0,United States of America
+US,600.0,United States of America
+AE,600.0,United Arab Emirates
+US,601.0,United States of America
+US,602.0,United States of America
+US,603.0,United States of America
+US,604.0,United States of America
+US,605.0,United States of America
+US,606.0,United States of America
+CN,607.0,China
+HK,607.0,Hong Kong
+US,608.0,United States of America
+CA,609.0,Canada
+US,611.0,United States of America
+KR,612.0,South Korea
+US,613.0,United States of America
+ES,613.0,Spain
+US,614.0,United States of America
+GB,615.0,United Kingdom
+US,615.0,United States of America
+GB,616.0,United Kingdom
+MX,617.0,Mexico
+US,618.0,United States of America
+US,619.0,United States of America
+SE,620.0,Sweden
+DE,620.0,Germany
+FR,620.0,France
+CA,621.0,Canada
+US,621.0,United States of America
+MX,622.0,Mexico
+PR,622.0,Puerto Rico
+US,622.0,United States of America
+GB,623.0,United Kingdom
+US,623.0,United States of America
+US,624.0,United States of America
+US,625.0,United States of America
+US,626.0,United States of America
+US,627.0,United States of America
+IN,628.0,India
+US,629.0,United States of America
+US,631.0,United States of America
+GB,632.0,United Kingdom
+US,633.0,United States of America
+DE,634.0,Germany
+US,634.0,United States of America
+US,635.0,United States of America
+DE,636.0,Germany
+US,636.0,United States of America
+US,638.0,United States of America
+NZ,639.0,New Zealand
+US,640.0,United States of America
+US,641.0,United States of America
+MX,642.0,Mexico
+US,642.0,United States of America
+US,643.0,United States of America
+US,644.0,United States of America
+JP,645.0,Japan
+AU,646.0,Australia
+US,647.0,United States of America
+US,648.0,United States of America
+US,649.0,United States of America
+GB,650.0,United Kingdom
+US,650.0,United States of America
+GB,651.0,United Kingdom
+US,651.0,United States of America
+US,652.0,United States of America
+JP,654.0,Japan
+ES,655.0,Spain
+US,656.0,United States of America
+US,657.0,United States of America
+US,658.0,United States of America
+CA,659.0,Canada
+FR,659.0,France
+DE,659.0,Germany
+IT,659.0,Italy
+FI,660.0,Finland
+DE,660.0,Germany
+AU,660.0,Australia
+DE,661.0,Germany
+GB,661.0,United Kingdom
+US,661.0,United States of America
+DK,662.0,Denmark
+FR,662.0,France
+IT,662.0,Italy
+SE,662.0,Sweden
+DE,662.0,Germany
+US,663.0,United States of America
+US,664.0,United States of America
+US,666.0,United States of America
+NZ,667.0,New Zealand
+US,667.0,United States of America
+IE,668.0,Ireland
+GB,668.0,United Kingdom
+US,668.0,United States of America
+IE,669.0,Ireland
+GB,669.0,United Kingdom
+US,670.0,United States of America
+US,671.0,United States of America
+IN,672.0,India
+US,673.0,United States of America
+US,674.0,United States of America
+US,675.0,United States of America
+US,676.0,United States of America
+US,677.0,United States of America
+GB,677.0,United Kingdom
+US,678.0,United States of America
+US,679.0,United States of America
+US,680.0,United States of America
+US,681.0,United States of America
+US,682.0,United States of America
+US,683.0,United States of America
+US,684.0,United States of America
+GB,685.0,United Kingdom
+US,685.0,United States of America
+US,686.0,United States of America
+KH,687.0,Cambodia
+US,687.0,United States of America
+US,688.0,United States of America
+IT,689.0,Italy
+DE,689.0,Germany
+US,690.0,United States of America
+GB,691.0,United Kingdom
+DE,692.0,Germany
+US,692.0,United States of America
+US,693.0,United States of America
+US,694.0,United States of America
+GB,695.0,United Kingdom
+IN,696.0,India
+US,697.0,United States of America
+JP,697.0,Japan
+US,698.0,United States of America
+US,699.0,United States of America
+US,700.0,United States of America
+US,701.0,United States of America
+US,702.0,United States of America
+US,703.0,United States of America
+US,704.0,United States of America
+US,705.0,United States of America
+US,706.0,United States of America
+US,707.0,United States of America
+US,708.0,United States of America
+FR,709.0,France
+US,709.0,United States of America
+US,710.0,United States of America
+LU,711.0,Luxembourg
+GB,711.0,United Kingdom
+FR,711.0,France
+DE,711.0,Germany
+CH,711.0,Switzerland
+US,712.0,United States of America
+US,713.0,United States of America
+US,714.0,United States of America
+US,715.0,United States of America
+US,716.0,United States of America
+AE,716.0,United Arab Emirates
+US,717.0,United States of America
+FR,718.0,France
+GB,718.0,United Kingdom
+AU,719.0,Australia
+US,719.0,United States of America
+ES,720.0,Spain
+HK,721.0,Hong Kong
+US,722.0,United States of America
+GB,723.0,United Kingdom
+US,723.0,United States of America
+US,724.0,United States of America
+US,725.0,United States of America
+US,726.0,United States of America
+DE,727.0,Germany
+US,728.0,United States of America
+US,729.0,United States of America
+US,730.0,United States of America
+FR,731.0,France
+NO,731.0,Norway
+PL,731.0,Poland
+US,732.0,United States of America
+AU,733.0,Australia
+KR,734.0,South Korea
+US,735.0,United States of America
+US,736.0,United States of America
+US,737.0,United States of America
+DE,739.0,Germany
+US,739.0,United States of America
+US,740.0,United States of America
+US,741.0,United States of America
+US,742.0,United States of America
+GB,743.0,United Kingdom
+AE,744.0,United Arab Emirates
+US,744.0,United States of America
+US,745.0,United States of America
+FR,746.0,France
+US,746.0,United States of America
+US,747.0,United States of America
+GB,748.0,United Kingdom
+US,748.0,United States of America
+FR,748.0,France
+US,749.0,United States of America
+US,750.0,United States of America
+DE,751.0,Germany
+US,751.0,United States of America
+DE,752.0,Germany
+US,752.0,United States of America
+US,754.0,United States of America
+US,755.0,United States of America
+US,756.0,United States of America
+HK,757.0,Hong Kong
+US,758.0,United States of America
+FR,759.0,France
+US,760.0,United States of America
+US,761.0,United States of America
+US,762.0,United States of America
+DE,763.0,Germany
+US,764.0,United States of America
+MT,764.0,Malta
+GB,765.0,United Kingdom
+DE,766.0,Germany
+US,766.0,United States of America
+CN,766.0,China
+GB,767.0,United Kingdom
+US,767.0,United States of America
+US,768.0,United States of America
+BR,769.0,Brazil
+FR,769.0,France
+GR,769.0,Greece
+US,769.0,United States of America
+NA,770.0,Namibia
+US,770.0,United States of America
+ZA,770.0,South Africa
+US,771.0,United States of America
+IN,772.0,India
+US,773.0,United States of America
+US,774.0,United States of America
+US,775.0,United States of America
+US,776.0,United States of America
+AU,777.0,Australia
+US,777.0,United States of America
+GB,777.0,United Kingdom
+AU,778.0,Australia
+CA,778.0,Canada
+CN,778.0,China
+HK,778.0,Hong Kong
+US,778.0,United States of America
+US,779.0,United States of America
+FR,780.0,France
+DE,780.0,Germany
+GB,780.0,United Kingdom
+US,780.0,United States of America
+US,781.0,United States of America
+FI,781.0,Finland
+US,782.0,United States of America
+US,783.0,United States of America
+US,784.0,United States of America
+US,785.0,United States of America
+US,786.0,United States of America
+CA,787.0,Canada
+US,787.0,United States of America
+MX,788.0,Mexico
+BE,788.0,Belgium
+NL,788.0,Netherlands
+DE,788.0,Germany
+FR,788.0,France
+US,789.0,United States of America
+CN,790.0,China
+HK,790.0,Hong Kong
+US,791.0,United States of America
+US,792.0,United States of America
+US,793.0,United States of America
+US,794.0,United States of America
+US,795.0,United States of America
+GB,796.0,United Kingdom
+US,796.0,United States of America
+KR,797.0,South Korea
+US,798.0,United States of America
+US,799.0,United States of America
+US,800.0,United States of America
+US,801.0,United States of America
+GB,802.0,United Kingdom
+US,802.0,United States of America
+IE,802.0,Ireland
+NL,802.0,Netherlands
+FR,802.0,France
+FR,803.0,France
+US,803.0,United States of America
+US,804.0,United States of America
+AU,805.0,Australia
+US,805.0,United States of America
+ES,806.0,Spain
+US,806.0,United States of America
+US,807.0,United States of America
+BA,808.0,Bosnia and Herzegovina
+TR,808.0,Turkey
+GB,809.0,United Kingdom
+HU,810.0,Hungary
+US,810.0,United States of America
+GB,811.0,United Kingdom
+US,811.0,United States of America
+US,812.0,United States of America
+US,813.0,United States of America
+GB,814.0,United Kingdom
+US,814.0,United States of America
+US,815.0,United States of America
+US,816.0,United States of America
+CA,816.0,Canada
+DE,816.0,Germany
+US,817.0,United States of America
+US,818.0,United States of America
+US,819.0,United States of America
+US,820.0,United States of America
+US,821.0,United States of America
+US,822.0,United States of America
+US,823.0,United States of America
+US,824.0,United States of America
+US,825.0,United States of America
+US,826.0,United States of America
+CN,827.0,China
+HK,827.0,Hong Kong
+CN,828.0,China
+US,829.0,United States of America
+US,831.0,United States of America
+FR,832.0,France
+US,832.0,United States of America
+GB,833.0,United Kingdom
+US,833.0,United States of America
+FR,834.0,France
+US,835.0,United States of America
+US,836.0,United States of America
+CA,836.0,Canada
+US,837.0,United States of America
+AU,838.0,Australia
+US,838.0,United States of America
+US,839.0,United States of America
+US,840.0,United States of America
+IN,841.0,India
+US,842.0,United States of America
+FR,843.0,France
+ZA,844.0,South Africa
+US,845.0,United States of America
+IT,846.0,Italy
+US,846.0,United States of America
+US,847.0,United States of America
+US,848.0,United States of America
+IN,849.0,India
+US,850.0,United States of America
+GB,851.0,United Kingdom
+DE,851.0,Germany
+US,851.0,United States of America
+US,852.0,United States of America
+IE,853.0,Ireland
+US,854.0,United States of America
+FI,855.0,Finland
+US,856.0,United States of America
+GB,857.0,United Kingdom
+US,858.0,United States of America
+GB,859.0,United Kingdom
+US,859.0,United States of America
+CA,860.0,Canada
+US,860.0,United States of America
+US,861.0,United States of America
+US,862.0,United States of America
+US,863.0,United States of America
+AE,864.0,United Arab Emirates
+US,864.0,United States of America
+US,865.0,United States of America
+ES,866.0,Spain
+US,866.0,United States of America
+GR,867.0,Greece
+US,867.0,United States of America
+GB,868.0,United Kingdom
+US,869.0,United States of America
+CZ,870.0,Czech Republic
+DE,870.0,Germany
+GB,870.0,United Kingdom
+US,871.0,United States of America
+DE,872.0,Germany
+US,873.0,United States of America
+US,874.0,United States of America
+ES,875.0,Spain
+CA,875.0,Canada
+US,876.0,United States of America
+US,877.0,United States of America
+CA,878.0,Canada
+US,878.0,United States of America
+US,879.0,United States of America
+US,880.0,United States of America
+IT,881.0,Italy
+CS,881.0,Serbia and Montenegro
+US,881.0,United States of America
+US,882.0,United States of America
+AE,883.0,United Arab Emirates
+US,883.0,United States of America
+CA,884.0,Canada
+US,884.0,United States of America
+RU,885.0,Russia
+GB,886.0,United Kingdom
+US,886.0,United States of America
+PH,887.0,Philippines
+US,888.0,United States of America
+CA,889.0,Canada
+US,889.0,United States of America
+FR,890.0,France
+GB,890.0,United Kingdom
+US,891.0,United States of America
+US,892.0,United States of America
+US,893.0,United States of America
+US,894.0,United States of America
+AU,895.0,Australia
+US,895.0,United States of America
+US,896.0,United States of America
+US,897.0,United States of America
+US,898.0,United States of America
+CA,899.0,Canada
+US,899.0,United States of America
+IN,900.0,India
+US,901.0,United States of America
+KH,902.0,Cambodia
+FR,902.0,France
+US,903.0,United States of America
+US,904.0,United States of America
+US,905.0,United States of America
+US,906.0,United States of America
+US,907.0,United States of America
+US,908.0,United States of America
+US,909.0,United States of America
+AU,909.0,Australia
+US,910.0,United States of America
+KR,911.0,South Korea
+FR,912.0,France
+CN,913.0,China
+HK,913.0,Hong Kong
+US,913.0,United States of America
+US,914.0,United States of America
+CZ,915.0,Czech Republic
+FR,915.0,France
+GB,915.0,United Kingdom
+JP,916.0,Japan
+US,917.0,United States of America
+US,918.0,United States of America
+IN,919.0,India
+US,920.0,United States of America
+CA,921.0,Canada
+US,922.0,United States of America
+US,923.0,United States of America
+JP,924.0,Japan
+US,924.0,United States of America
+ES,925.0,Spain
+GB,926.0,United Kingdom
+US,926.0,United States of America
+US,927.0,United States of America
+US,928.0,United States of America
+GB,929.0,United Kingdom
+GB,930.0,United Kingdom
+CA,931.0,Canada
+US,931.0,United States of America
+PK,932.0,Pakistan
+US,933.0,United States of America
+US,934.0,United States of America
+US,935.0,United States of America
+MX,936.0,Mexico
+US,936.0,United States of America
+IN,937.0,India
+HK,938.0,Hong Kong
+CN,938.0,China
+US,939.0,United States of America
+US,940.0,United States of America
+US,941.0,United States of America
+US,942.0,United States of America
+GB,943.0,United Kingdom
+US,943.0,United States of America
+JP,944.0,Japan
+US,944.0,United States of America
+KR,945.0,South Korea
+US,946.0,United States of America
+GB,947.0,United Kingdom
+US,947.0,United States of America
+FR,947.0,France
+IT,947.0,Italy
+GB,948.0,United Kingdom
+US,948.0,United States of America
+US,949.0,United States of America
+US,950.0,United States of America
+ES,951.0,Spain
+GB,951.0,United Kingdom
+US,951.0,United States of America
+US,952.0,United States of America
+US,953.0,United States of America
+IT,954.0,Italy
+ES,954.0,Spain
+US,954.0,United States of America
+FR,955.0,France
+IT,955.0,Italy
+US,956.0,United States of America
+US,957.0,United States of America
+IT,958.0,Italy
+US,959.0,United States of America
+US,960.0,United States of America
+DE,961.0,Germany
+GB,962.0,United Kingdom
+US,962.0,United States of America
+US,963.0,United States of America
+FR,964.0,France
+ES,964.0,Spain
+IT,965.0,Italy
+DZ,965.0,Algeria
+US,966.0,United States of America
+US,967.0,United States of America
+AU,968.0,Australia
+FR,968.0,France
+US,969.0,United States of America
+IN,969.0,India
+FR,969.0,France
+US,970.0,United States of America
+IN,971.0,India
+US,972.0,United States of America
+US,973.0,United States of America
+US,974.0,United States of America
+US,975.0,United States of America
+US,976.0,United States of America
+IN,976.0,India
+US,977.0,United States of America
+IT,978.0,Italy
+FR,979.0,France
+US,981.0,United States of America
+US,982.0,United States of America
+AR,983.0,Argentina
+FR,983.0,France
+ES,983.0,Spain
+US,984.0,United States of America
+US,985.0,United States of America
+US,986.0,United States of America
+US,987.0,United States of America
+US,988.0,United States of America
+US,989.0,United States of America
+US,990.0,United States of America
+GB,991.0,United Kingdom
+ET,992.0,Ethiopia
+US,993.0,United States of America
+US,994.0,United States of America
+US,995.0,United States of America
+JP,996.0,Japan
+JP,997.0,Japan
+US,998.0,United States of America
+US,999.0,United States of America
+FR,1000.0,France
+IT,1000.0,Italy
+GB,1001.0,United Kingdom
+US,1001.0,United States of America
+DK,1002.0,Denmark
+GB,1002.0,United Kingdom
+ZA,1002.0,South Africa
+SE,1002.0,Sweden
+BE,1002.0,Belgium
+US,1003.0,United States of America
+US,1004.0,United States of America
+IN,1005.0,India
+FR,1005.0,France
+DE,1005.0,Germany
+US,1006.0,United States of America
+US,1007.0,United States of America
+US,1008.0,United States of America
+US,1009.0,United States of America
+US,1010.0,United States of America
+US,1011.0,United States of America
+US,1012.0,United States of America
+US,1013.0,United States of America
+US,1014.0,United States of America
+US,1015.0,United States of America
+IN,1016.0,India
+US,1017.0,United States of America
+CA,1018.0,Canada
+US,1018.0,United States of America
+CN,1019.0,China
+US,1019.0,United States of America
+GB,1020.0,United Kingdom
+US,1020.0,United States of America
+US,1021.0,United States of America
+US,1022.0,United States of America
+JP,1023.0,Japan
+US,1024.0,United States of America
+GB,1025.0,United Kingdom
+US,1026.0,United States of America
+US,1027.0,United States of America
+US,1028.0,United States of America
+AU,1029.0,Australia
+GB,1029.0,United Kingdom
+US,1030.0,United States of America
+US,1031.0,United States of America
+IL,1032.0,Israel
+FR,1032.0,France
+DE,1032.0,Germany
+ES,1033.0,Spain
+US,1034.0,United States of America
+IT,1035.0,Italy
+GB,1035.0,United Kingdom
+US,1036.0,United States of America
+GB,1037.0,United Kingdom
+GB,1038.0,United Kingdom
+US,1038.0,United States of America
+CN,1039.0,China
+US,1039.0,United States of America
+HK,1039.0,Hong Kong
+CA,1040.0,Canada
+FR,1041.0,France
+IT,1041.0,Italy
+QA,1041.0,Qatar
+TN,1041.0,Tunisia
+CA,1042.0,Canada
+US,1042.0,United States of America
+US,1043.0,United States of America
+GB,1044.0,United Kingdom
+US,1044.0,United States of America
+RU,1045.0,Russia
+US,1046.0,United States of America
+US,1047.0,United States of America
+GB,1047.0,United Kingdom
+FR,1048.0,France
+GB,1048.0,United Kingdom
+US,1048.0,United States of America
+US,1049.0,United States of America
+US,1050.0,United States of America
+US,1051.0,United States of America
+US,1052.0,United States of America
+US,1053.0,United States of America
+ES,1054.0,Spain
+US,1055.0,United States of America
+US,1056.0,United States of America
+MX,1057.0,Mexico
+US,1057.0,United States of America
+US,1058.0,United States of America
+US,1059.0,United States of America
+GB,1060.0,United Kingdom
+US,1060.0,United States of America
+FR,1061.0,France
+CN,1061.0,China
+GB,1061.0,United Kingdom
+IT,1061.0,Italy
+US,1062.0,United States of America
+US,1063.0,United States of America
+GB,1064.0,United Kingdom
+US,1064.0,United States of America
+US,1065.0,United States of America
+US,1066.0,United States of America
+FR,1067.0,France
+US,1068.0,United States of America
+US,1069.0,United States of America
+BR,1070.0,Brazil
+GB,1071.0,United Kingdom
+LU,1071.0,Luxembourg
+CN,1072.0,China
+HK,1072.0,Hong Kong
+US,1073.0,United States of America
+US,1074.0,United States of America
+US,1075.0,United States of America
+NO,1076.0,Norway
+US,1077.0,United States of America
+US,1078.0,United States of America
+US,1079.0,United States of America
+IT,1080.0,Italy
+BE,1080.0,Belgium
+FR,1080.0,France
+US,1081.0,United States of America
+US,1082.0,United States of America
+US,1083.0,United States of America
+US,1084.0,United States of America
+US,1085.0,United States of America
+ES,1086.0,Spain
+IT,1086.0,Italy
+US,1088.0,United States of America
+IT,1089.0,Italy
+ES,1089.0,Spain
+US,1090.0,United States of America
+GB,1091.0,United Kingdom
+US,1092.0,United States of America
+BE,1093.0,Belgium
+US,1094.0,United States of America
+GB,1095.0,United Kingdom
+US,1095.0,United States of America
+GB,1096.0,United Kingdom
+US,1096.0,United States of America
+FR,1097.0,France
+GB,1097.0,United Kingdom
+CN,1098.0,China
+US,1099.0,United States of America
+US,1100.0,United States of America
+ES,1101.0,Spain
+BE,1102.0,Belgium
+US,1103.0,United States of America
+US,1104.0,United States of America
+BE,1105.0,Belgium
+FR,1105.0,France
+GB,1106.0,United Kingdom
+IT,1106.0,Italy
+TR,1106.0,Turkey
+PT,1106.0,Portugal
+SE,1107.0,Sweden
+RU,1107.0,Russia
+NO,1107.0,Norway
+US,1108.0,United States of America
+GB,1108.0,United Kingdom
+CN,1109.0,China
+CA,1109.0,Canada
+US,1109.0,United States of America
+GB,1109.0,United Kingdom
+US,1110.0,United States of America
+US,1112.0,United States of America
+US,1113.0,United States of America
+ES,1114.0,Spain
+US,1115.0,United States of America
+GB,1116.0,United Kingdom
+US,1116.0,United States of America
+US,1117.0,United States of America
+US,1118.0,United States of America
+US,1119.0,United States of America
+US,1120.0,United States of America
+US,1121.0,United States of America
+GB,1122.0,United Kingdom
+US,1123.0,United States of America
+US,1124.0,United States of America
+US,1125.0,United States of America
+CA,1126.0,Canada
+DE,1126.0,Germany
+US,1126.0,United States of America
+US,1127.0,United States of America
+US,1128.0,United States of America
+GB,1128.0,United Kingdom
+DE,1128.0,Germany
+JP,1128.0,Japan
+FR,1128.0,France
+US,1129.0,United States of America
+US,1130.0,United States of America
+US,1131.0,United States of America
+AT,1132.0,Austria
+DE,1132.0,Germany
+DE,1133.0,Germany
+US,1133.0,United States of America
+US,1134.0,United States of America
+CA,1135.0,Canada
+CA,1136.0,Canada
+FR,1136.0,France
+GB,1136.0,United Kingdom
+JP,1137.0,Japan
+US,1137.0,United States of America
+US,1138.0,United States of America
+JP,1139.0,Japan
+US,1139.0,United States of America
+US,1140.0,United States of America
+IT,1141.0,Italy
+KR,1142.0,South Korea
+US,1143.0,United States of America
+US,1144.0,United States of America
+US,1145.0,United States of America
+US,1146.0,United States of America
+US,1147.0,United States of America
+GB,1148.0,United Kingdom
+US,1148.0,United States of America
+US,1149.0,United States of America
+DE,1150.0,Germany
+GB,1151.0,United Kingdom
+US,1151.0,United States of America
+US,1152.0,United States of America
+GB,1153.0,United Kingdom
+US,1153.0,United States of America
+GB,1154.0,United Kingdom
+ES,1155.0,Spain
+GB,1155.0,United Kingdom
+IT,1155.0,Italy
+US,1155.0,United States of America
+US,1156.0,United States of America
+US,1157.0,United States of America
+KR,1158.0,South Korea
+US,1159.0,United States of America
+CA,1160.0,Canada
+US,1160.0,United States of America
+DE,1161.0,Germany
+US,1161.0,United States of America
+US,1162.0,United States of America
+US,1163.0,United States of America
+US,1164.0,United States of America
+US,1165.0,United States of America
+AT,1165.0,Austria
+CN,1166.0,China
+HK,1166.0,Hong Kong
+US,1167.0,United States of America
+US,1168.0,United States of America
+US,1169.0,United States of America
+US,1170.0,United States of America
+US,1171.0,United States of America
+US,1172.0,United States of America
+US,1173.0,United States of America
+US,1174.0,United States of America
+GB,1175.0,United Kingdom
+GB,1176.0,United Kingdom
+US,1176.0,United States of America
+US,1177.0,United States of America
+US,1178.0,United States of America
+US,1179.0,United States of America
+US,1180.0,United States of America
+CA,1181.0,Canada
+CA,1182.0,Canada
+US,1182.0,United States of America
+FR,1183.0,France
+IT,1184.0,Italy
+GB,1184.0,United Kingdom
+US,1185.0,United States of America
+DE,1186.0,Germany
+MX,1187.0,Mexico
+ES,1187.0,Spain
+FR,1188.0,France
+IT,1188.0,Italy
+SE,1189.0,Sweden
+US,1190.0,United States of America
+US,1191.0,United States of America
+GB,1192.0,United Kingdom
+US,1193.0,United States of America
+IT,1194.0,Italy
+GB,1194.0,United Kingdom
+ZA,1195.0,South Africa
+DE,1195.0,Germany
+US,1195.0,United States of America
+ES,1196.0,Spain
+GB,1196.0,United Kingdom
+US,1196.0,United States of America
+FR,1196.0,France
+US,1197.0,United States of America
+US,1198.0,United States of America
+US,1199.0,United States of America
+US,1200.0,United States of America
+HK,1201.0,Hong Kong
+CN,1201.0,China
+GB,1202.0,United Kingdom
+US,1202.0,United States of America
+IN,1203.0,India
+FR,1204.0,France
+US,1204.0,United States of America
+US,1205.0,United States of America
+US,1206.0,United States of America
+IT,1207.0,Italy
+ES,1207.0,Spain
+US,1208.0,United States of America
+US,1209.0,United States of America
+GB,1210.0,United Kingdom
+US,1210.0,United States of America
+US,1211.0,United States of America
+FR,1212.0,France
+DE,1212.0,Germany
+US,1213.0,United States of America
+US,1214.0,United States of America
+US,1215.0,United States of America
+FR,1216.0,France
+GB,1216.0,United Kingdom
+US,1217.0,United States of America
+US,1218.0,United States of America
+FR,1219.0,France
+ES,1219.0,Spain
+BG,1220.0,Bulgaria
+US,1221.0,United States of America
+US,1222.0,United States of America
+US,1223.0,United States of America
+US,1224.0,United States of America
+US,1225.0,United States of America
+CA,1225.0,Canada
+CA,1226.0,Canada
+US,1227.0,United States of America
+IT,1228.0,Italy
+US,1228.0,United States of America
+US,1229.0,United States of America
+US,1230.0,United States of America
+US,1231.0,United States of America
+US,1232.0,United States of America
+CA,1233.0,Canada
+GB,1233.0,United Kingdom
+US,1234.0,United States of America
+DE,1235.0,Germany
+US,1235.0,United States of America
+FR,1236.0,France
+US,1236.0,United States of America
+US,1237.0,United States of America
+GB,1238.0,United Kingdom
+US,1238.0,United States of America
+US,1239.0,United States of America
+US,1240.0,United States of America
+US,1242.0,United States of America
+US,1243.0,United States of America
+GB,1244.0,United Kingdom
+US,1244.0,United States of America
+US,1245.0,United States of America
+FR,1245.0,France
+US,1246.0,United States of America
+GB,1247.0,United Kingdom
+US,1247.0,United States of America
+ES,1248.0,Spain
+DE,1249.0,Germany
+US,1249.0,United States of America
+CZ,1250.0,Czech Republic
+PL,1250.0,Poland
+SI,1250.0,Slovenia
+US,1250.0,United States of America
+US,1251.0,United States of America
+US,1252.0,United States of America
+FR,1253.0,France
+US,1253.0,United States of America
+BE,1255.0,Belgium
+LU,1255.0,Luxembourg
+FR,1255.0,France
+IT,1256.0,Italy
+ES,1256.0,Spain
+DE,1256.0,Germany
+DE,1257.0,Germany
+US,1257.0,United States of America
+US,1258.0,United States of America
+US,1259.0,United States of America
+FR,1260.0,France
+US,1260.0,United States of America
+US,1261.0,United States of America
+FR,1262.0,France
+US,1263.0,United States of America
+US,1264.0,United States of America
+US,1265.0,United States of America
+US,1266.0,United States of America
+JP,1267.0,Japan
+US,1268.0,United States of America
+US,1269.0,United States of America
+US,1270.0,United States of America
+US,1271.0,United States of America
+US,1272.0,United States of America
+US,1273.0,United States of America
+US,1274.0,United States of America
+US,1275.0,United States of America
+GB,1275.0,United Kingdom
+US,1276.0,United States of America
+DE,1277.0,Germany
+GB,1277.0,United Kingdom
+US,1278.0,United States of America
+US,1279.0,United States of America
+RU,1280.0,Russia
+JP,1281.0,Japan
+GB,1282.0,United Kingdom
+US,1283.0,United States of America
+US,1284.0,United States of America
+MX,1285.0,Mexico
+US,1286.0,United States of America
+US,1287.0,United States of America
+US,1288.0,United States of America
+US,1289.0,United States of America
+US,1290.0,United States of America
+US,1291.0,United States of America
+GB,1292.0,United Kingdom
+US,1292.0,United States of America
+CA,1293.0,Canada
+US,1293.0,United States of America
+US,1294.0,United States of America
+US,1295.0,United States of America
+US,1296.0,United States of America
+US,1297.0,United States of America
+US,1298.0,United States of America
+US,1299.0,United States of America
+US,1300.0,United States of America
+CA,1301.0,Canada
+CA,1302.0,Canada
+US,1302.0,United States of America
+US,1303.0,United States of America
+US,1304.0,United States of America
+FR,1305.0,France
+JP,1305.0,Japan
+GB,1306.0,United Kingdom
+FR,1307.0,France
+US,1307.0,United States of America
+US,1308.0,United States of America
+DE,1309.0,Germany
+GB,1309.0,United Kingdom
+US,1309.0,United States of America
+US,1310.0,United States of America
+US,1311.0,United States of America
+GB,1312.0,United Kingdom
+US,1313.0,United States of America
+FR,1314.0,France
+DE,1314.0,Germany
+US,1315.0,United States of America
+GB,1316.0,United Kingdom
+US,1316.0,United States of America
+US,1317.0,United States of America
+UA,1318.0,Ukraine
+US,1319.0,United States of America
+US,1320.0,United States of America
+CA,1321.0,Canada
+US,1321.0,United States of America
+AU,1321.0,Australia
+US,1322.0,United States of America
+FR,1323.0,France
+US,1323.0,United States of America
+US,1324.0,United States of America
+RU,1325.0,Russia
+GB,1326.0,United Kingdom
+US,1327.0,United States of America
+US,1328.0,United States of America
+US,1329.0,United States of America
+FR,1330.0,France
+US,1331.0,United States of America
+SA,1332.0,Saudi Arabia
+DE,1332.0,Germany
+JO,1332.0,Jordan
+NL,1332.0,Netherlands
+AE,1332.0,United Arab Emirates
+US,1332.0,United States of America
+US,1333.0,United States of America
+US,1335.0,United States of America
+US,1337.0,United States of America
+US,1338.0,United States of America
+FR,1339.0,France
+GB,1339.0,United Kingdom
+HU,1339.0,Hungary
+AU,1339.0,Australia
+US,1339.0,United States of America
+NZ,1339.0,New Zealand
+RU,1340.0,Russia
+AU,1341.0,Australia
+US,1341.0,United States of America
+US,1342.0,United States of America
+DK,1343.0,Denmark
+US,1344.0,United States of America
+US,1346.0,United States of America
+US,1347.0,United States of America
+US,1348.0,United States of America
+US,1349.0,United States of America
+GB,1350.0,United Kingdom
+DE,1350.0,Germany
+US,1351.0,United States of America
+FR,1351.0,France
+US,1352.0,United States of America
+US,1353.0,United States of America
+US,1354.0,United States of America
+AU,1355.0,Australia
+US,1355.0,United States of America
+US,1356.0,United States of America
+US,1357.0,United States of America
+GB,1358.0,United Kingdom
+US,1359.0,United States of America
+US,1360.0,United States of America
+US,1361.0,United States of America
+RU,1362.0,Russia
+US,1363.0,United States of America
+US,1364.0,United States of America
+FR,1365.0,France
+ES,1365.0,Spain
+US,1366.0,United States of America
+US,1367.0,United States of America
+US,1368.0,United States of America
+US,1369.0,United States of America
+KR,1370.0,South Korea
+US,1371.0,United States of America
+US,1372.0,United States of America
+IT,1373.0,Italy
+ES,1373.0,Spain
+US,1374.0,United States of America
+US,1375.0,United States of America
+US,1376.0,United States of America
+GB,1377.0,United Kingdom
+US,1378.0,United States of America
+US,1379.0,United States of America
+DE,1380.0,Germany
+TR,1380.0,Turkey
+IN,1381.0,India
+US,1382.0,United States of America
+GB,1383.0,United Kingdom
+US,1384.0,United States of America
+US,1385.0,United States of America
+AE,1386.0,United Arab Emirates
+US,1386.0,United States of America
+US,1387.0,United States of America
+US,1388.0,United States of America
+US,1389.0,United States of America
+US,1390.0,United States of America
+US,1391.0,United States of America
+NL,1392.0,Netherlands
+BE,1392.0,Belgium
+US,1393.0,United States of America
+US,1394.0,United States of America
+US,1395.0,United States of America
+KR,1396.0,South Korea
+US,1397.0,United States of America
+FR,1398.0,France
+US,1398.0,United States of America
+US,1399.0,United States of America
+GB,1400.0,United Kingdom
+US,1400.0,United States of America
+US,1401.0,United States of America
+US,1402.0,United States of America
+GB,1403.0,United Kingdom
+US,1403.0,United States of America
+US,1404.0,United States of America
+US,1405.0,United States of America
+FR,1406.0,France
+US,1406.0,United States of America
+RU,1407.0,Russia
+US,1408.0,United States of America
+US,1409.0,United States of America
+KR,1410.0,South Korea
+FR,1411.0,France
+US,1411.0,United States of America
+US,1412.0,United States of America
+US,1413.0,United States of America
+AU,1414.0,Australia
+US,1415.0,United States of America
+FR,1416.0,France
+US,1417.0,United States of America
+US,1418.0,United States of America
+US,1419.0,United States of America
+DK,1420.0,Denmark
+FI,1420.0,Finland
+GB,1420.0,United Kingdom
+SE,1420.0,Sweden
+US,1421.0,United States of America
+FR,1422.0,France
+DE,1423.0,Germany
+US,1424.0,United States of America
+GB,1425.0,United Kingdom
+US,1425.0,United States of America
+US,1426.0,United States of America
+DE,1427.0,Germany
+US,1427.0,United States of America
+US,1428.0,United States of America
+US,1429.0,United States of America
+US,1430.0,United States of America
+FR,1431.0,France
+GB,1431.0,United Kingdom
+GB,1432.0,United Kingdom
+US,1433.0,United States of America
+IE,1434.0,Ireland
+GB,1434.0,United Kingdom
+US,1435.0,United States of America
+AU,1436.0,Australia
+US,1436.0,United States of America
+RU,1437.0,Russia
+CA,1438.0,Canada
+US,1439.0,United States of America
+US,1440.0,United States of America
+US,1441.0,United States of America
+US,1442.0,United States of America
+US,1443.0,United States of America
+US,1444.0,United States of America
+GB,1445.0,United Kingdom
+US,1446.0,United States of America
+US,1447.0,United States of America
+US,1448.0,United States of America
+US,1449.0,United States of America
+US,1450.0,United States of America
+FR,1451.0,France
+GB,1451.0,United Kingdom
+US,1451.0,United States of America
+DE,1452.0,Germany
+US,1452.0,United States of America
+US,1453.0,United States of America
+RU,1454.0,Russia
+US,1455.0,United States of America
+US,1456.0,United States of America
+US,1457.0,United States of America
+US,1458.0,United States of America
+CA,1459.0,Canada
+NO,1460.0,Norway
+US,1461.0,United States of America
+US,1462.0,United States of America
+US,1463.0,United States of America
+US,1464.0,United States of America
+RU,1465.0,Russia
+RU,1466.0,Russia
+US,1467.0,United States of America
+DE,1467.0,Germany
+US,1468.0,United States of America
+US,1469.0,United States of America
+AU,1470.0,Australia
+US,1470.0,United States of America
+RU,1471.0,Russia
+US,1472.0,United States of America
+FR,1473.0,France
+US,1473.0,United States of America
+US,1474.0,United States of America
+JP,1475.0,Japan
+GB,1475.0,United Kingdom
+IE,1475.0,Ireland
+US,1476.0,United States of America
+US,1477.0,United States of America
+CA,1478.0,Canada
+US,1478.0,United States of America
+US,1479.0,United States of America
+US,1480.0,United States of America
+US,1481.0,United States of America
+US,1482.0,United States of America
+US,1483.0,United States of America
+DE,1485.0,Germany
+US,1485.0,United States of America
+US,1486.0,United States of America
+US,1487.0,United States of America
+US,1488.0,United States of America
+RU,1489.0,Russia
+GB,1490.0,United Kingdom
+US,1490.0,United States of America
+ES,1491.0,Spain
+IN,1492.0,India
+US,1493.0,United States of America
+CA,1494.0,Canada
+DE,1494.0,Germany
+US,1494.0,United States of America
+US,1495.0,United States of America
+US,1496.0,United States of America
+US,1497.0,United States of America
+US,1498.0,United States of America
+CA,1499.0,Canada
+FR,1499.0,France
+DE,1499.0,Germany
+US,1499.0,United States of America
+US,1500.0,United States of America
+US,1501.0,United States of America
+US,1502.0,United States of America
+US,1503.0,United States of America
+US,1505.0,United States of America
+US,1506.0,United States of America
+US,1507.0,United States of America
+US,1508.0,United States of America
+US,1509.0,United States of America
+US,1510.0,United States of America
+US,1511.0,United States of America
+US,1512.0,United States of America
+US,1513.0,United States of America
+US,1514.0,United States of America
+US,1515.0,United States of America
+US,1516.0,United States of America
+US,1517.0,United States of America
+US,1518.0,United States of America
+GB,1519.0,United Kingdom
+US,1519.0,United States of America
+GB,1520.0,United Kingdom
+US,1521.0,United States of America
+US,1522.0,United States of America
+RU,1523.0,Russia
+FR,1524.0,France
+GB,1524.0,United Kingdom
+LU,1524.0,Luxembourg
+US,1525.0,United States of America
+US,1526.0,United States of America
+US,1527.0,United States of America
+US,1528.0,United States of America
+FR,1529.0,France
+US,1530.0,United States of America
+US,1531.0,United States of America
+US,1532.0,United States of America
+GB,1532.0,United Kingdom
+GB,1533.0,United Kingdom
+US,1533.0,United States of America
+US,1534.0,United States of America
+CA,1535.0,Canada
+US,1536.0,United States of America
+GB,1537.0,United Kingdom
+US,1538.0,United States of America
+GB,1539.0,United Kingdom
+US,1540.0,United States of America
+US,1541.0,United States of America
+RU,1542.0,Russia
+FR,1543.0,France
+US,1544.0,United States of America
+US,1545.0,United States of America
+US,1546.0,United States of America
+AU,1546.0,Australia
+QA,1547.0,Qatar
+GB,1547.0,United Kingdom
+US,1547.0,United States of America
+US,1548.0,United States of America
+IN,1549.0,India
+US,1550.0,United States of America
+US,1551.0,United States of America
+US,1552.0,United States of America
+US,1553.0,United States of America
+GB,1554.0,United Kingdom
+IT,1555.0,Italy
+US,1555.0,United States of America
+US,1556.0,United States of America
+US,1557.0,United States of America
+MX,1558.0,Mexico
+US,1558.0,United States of America
+US,1559.0,United States of America
+US,1560.0,United States of America
+US,1561.0,United States of America
+US,1562.0,United States of America
+JP,1563.0,Japan
+CA,1564.0,Canada
+US,1564.0,United States of America
+US,1565.0,United States of America
+US,1566.0,United States of America
+US,1567.0,United States of America
+US,1568.0,United States of America
+US,1569.0,United States of America
+AU,1570.0,Australia
+US,1570.0,United States of America
+US,1571.0,United States of America
+GB,1572.0,United Kingdom
+US,1572.0,United States of America
+IN,1573.0,India
+GB,1574.0,United Kingdom
+US,1574.0,United States of America
+US,1575.0,United States of America
+JP,1576.0,Japan
+US,1576.0,United States of America
+JP,1577.0,Japan
+US,1577.0,United States of America
+US,1578.0,United States of America
+GB,1579.0,United Kingdom
+US,1579.0,United States of America
+CN,1580.0,China
+GB,1581.0,United Kingdom
+US,1581.0,United States of America
+GB,1582.0,United Kingdom
+NL,1582.0,Netherlands
+US,1583.0,United States of America
+US,1584.0,United States of America
+GR,1585.0,Greece
+US,1585.0,United States of America
+US,1586.0,United States of America
+US,1587.0,United States of America
+AR,1588.0,Argentina
+FR,1588.0,France
+GB,1588.0,United Kingdom
+US,1589.0,United States of America
+US,1590.0,United States of America
+US,1591.0,United States of America
+US,1592.0,United States of America
+US,1593.0,United States of America
+US,1594.0,United States of America
+US,1595.0,United States of America
+US,1596.0,United States of America
+US,1597.0,United States of America
+US,1598.0,United States of America
+US,1599.0,United States of America
+RU,1600.0,Russia
+US,1601.0,United States of America
+US,1602.0,United States of America
+US,1603.0,United States of America
+US,1604.0,United States of America
+US,1605.0,United States of America
+IT,1606.0,Italy
+DK,1607.0,Denmark
+FR,1607.0,France
+DE,1607.0,Germany
+NO,1607.0,Norway
+US,1607.0,United States of America
+TR,1608.0,Turkey
+US,1608.0,United States of America
+GB,1609.0,United Kingdom
+US,1609.0,United States of America
+US,1610.0,United States of America
+US,1611.0,United States of America
+CA,1612.0,Canada
+US,1612.0,United States of America
+US,1613.0,United States of America
+DE,1614.0,Germany
+GB,1614.0,United Kingdom
+US,1614.0,United States of America
+US,1615.0,United States of America
+US,1616.0,United States of America
+NZ,1616.0,New Zealand
+CA,1616.0,Canada
+ZA,1616.0,South Africa
+US,1617.0,United States of America
+US,1618.0,United States of America
+CA,1619.0,Canada
+US,1620.0,United States of America
+US,1621.0,United States of America
+US,1622.0,United States of America
+FR,1624.0,France
+US,1625.0,United States of America
+GB,1626.0,United Kingdom
+US,1626.0,United States of America
+DE,1626.0,Germany
+US,1627.0,United States of America
+US,1628.0,United States of America
+HK,1628.0,Hong Kong
+HR,1628.0,Croatia
+US,1629.0,United States of America
+US,1630.0,United States of America
+US,1631.0,United States of America
+GB,1632.0,United Kingdom
+US,1632.0,United States of America
+RU,1633.0,Russia
+JP,1634.0,Japan
+US,1634.0,United States of America
+US,1635.0,United States of America
+DE,1636.0,Germany
+US,1636.0,United States of America
+GB,1637.0,United Kingdom
+US,1638.0,United States of America
+JP,1639.0,Japan
+US,1640.0,United States of America
+IN,1641.0,India
+US,1642.0,United States of America
+GB,1643.0,United Kingdom
+US,1643.0,United States of America
+US,1644.0,United States of America
+US,1645.0,United States of America
+GB,1646.0,United Kingdom
+US,1646.0,United States of America
+FR,1647.0,France
+US,1647.0,United States of America
+US,1648.0,United States of America
+US,1650.0,United States of America
+US,1651.0,United States of America
+AU,1652.0,Australia
+HK,1652.0,Hong Kong
+RU,1652.0,Russia
+US,1652.0,United States of America
+US,1653.0,United States of America
+US,1654.0,United States of America
+KR,1655.0,South Korea
+US,1656.0,United States of America
+IN,1657.0,India
+US,1658.0,United States of America
+US,1659.0,United States of America
+US,1660.0,United States of America
+US,1661.0,United States of America
+US,1662.0,United States of America
+US,1663.0,United States of America
+US,1664.0,United States of America
+GB,1664.0,United Kingdom
+US,1665.0,United States of America
+US,1666.0,United States of America
+US,1667.0,United States of America
+GB,1668.0,United Kingdom
+US,1669.0,United States of America
+CL,1670.0,Chile
+US,1670.0,United States of America
+GB,1671.0,United Kingdom
+US,1671.0,United States of America
+US,1672.0,United States of America
+US,1673.0,United States of America
+GB,1674.0,United Kingdom
+US,1674.0,United States of America
+US,1675.0,United States of America
+US,1676.0,United States of America
+BR,1677.0,Brazil
+US,1678.0,United States of America
+CL,1678.0,Chile
+GB,1679.0,United Kingdom
+FR,1679.0,France
+US,1679.0,United States of America
+RO,1679.0,Romania
+US,1680.0,United States of America
+IR,1681.0,Iran
+US,1682.0,United States of America
+US,1683.0,United States of America
+RU,1685.0,Russia
+US,1686.0,United States of America
+US,1687.0,United States of America
+GB,1688.0,United Kingdom
+US,1689.0,United States of America
+FR,1690.0,France
+NZ,1691.0,New Zealand
+US,1692.0,United States of America
+US,1693.0,United States of America
+CA,1694.0,Canada
+GB,1694.0,United Kingdom
+US,1694.0,United States of America
+IN,1695.0,India
+GB,1696.0,United Kingdom
+US,1696.0,United States of America
+FR,1697.0,France
+IT,1697.0,Italy
+GB,1698.0,United Kingdom
+US,1698.0,United States of America
+US,1699.0,United States of America
+US,1700.0,United States of America
+US,1701.0,United States of America
+FR,1702.0,France
+US,1703.0,United States of America
+GB,1704.0,United Kingdom
+CA,1705.0,Canada
+US,1705.0,United States of America
+US,1706.0,United States of America
+US,1707.0,United States of America
+US,1708.0,United States of America
+US,1709.0,United States of America
+US,1710.0,United States of America
+US,1711.0,United States of America
+US,1712.0,United States of America
+US,1713.0,United States of America
+US,1714.0,United States of America
+US,1715.0,United States of America
+CA,1716.0,Canada
+US,1716.0,United States of America
+MX,1717.0,Mexico
+CA,1718.0,Canada
+US,1718.0,United States of America
+IT,1719.0,Italy
+IN,1720.0,India
+US,1721.0,United States of America
+AU,1722.0,Australia
+CA,1722.0,Canada
+US,1722.0,United States of America
+US,1723.0,United States of America
+US,1724.0,United States of America
+GB,1725.0,United Kingdom
+US,1726.0,United States of America
+US,1727.0,United States of America
+US,1728.0,United States of America
+US,1729.0,United States of America
+IN,1730.0,India
+ES,1731.0,Spain
+AR,1731.0,Argentina
+IN,1732.0,India
+IN,1733.0,India
+FR,1734.0,France
+US,1735.0,United States of America
+US,1736.0,United States of America
+US,1737.0,United States of America
+CA,1738.0,Canada
+GB,1738.0,United Kingdom
+US,1739.0,United States of America
+US,1740.0,United States of America
+US,1741.0,United States of America
+NL,1742.0,Netherlands
+US,1742.0,United States of America
+US,1743.0,United States of America
+GB,1744.0,United Kingdom
+US,1744.0,United States of America
+US,1745.0,United States of America
+GB,1746.0,United Kingdom
+US,1746.0,United States of America
+US,1747.0,United States of America
+US,1748.0,United States of America
+US,1749.0,United States of America
+FR,1750.0,France
+TW,1751.0,Taiwan
+US,1751.0,United States of America
+FR,1752.0,France
+US,1753.0,United States of America
+RO,1754.0,Romania
+DE,1755.0,Germany
+RU,1755.0,Russia
+GB,1755.0,United Kingdom
+US,1755.0,United States of America
+GR,1756.0,Greece
+GB,1756.0,United Kingdom
+CN,1757.0,China
+HK,1757.0,Hong Kong
+US,1759.0,United States of America
+US,1760.0,United States of America
+US,1761.0,United States of America
+JP,1762.0,Japan
+US,1762.0,United States of America
+US,1763.0,United States of America
+US,1764.0,United States of America
+GB,1765.0,United Kingdom
+US,1765.0,United States of America
+AT,1766.0,Austria
+DE,1766.0,Germany
+GB,1766.0,United Kingdom
+IN,1767.0,India
+US,1768.0,United States of America
+US,1769.0,United States of America
+US,1770.0,United States of America
+US,1771.0,United States of America
+US,1773.0,United States of America
+US,1774.0,United States of America
+CZ,1775.0,Czech Republic
+GB,1775.0,United Kingdom
+GB,1776.0,United Kingdom
+US,1776.0,United States of America
+DE,1776.0,Germany
+SE,1776.0,Sweden
+BE,1776.0,Belgium
+SG,1777.0,Singapore
+US,1778.0,United States of America
+US,1779.0,United States of America
+US,1780.0,United States of America
+FR,1781.0,France
+GB,1781.0,United Kingdom
+FR,1782.0,France
+GB,1782.0,United Kingdom
+DE,1783.0,Germany
+FR,1783.0,France
+US,1784.0,United States of America
+US,1785.0,United States of America
+US,1787.0,United States of America
+DE,1788.0,Germany
+US,1788.0,United States of America
+US,1789.0,United States of America
+GB,1789.0,United Kingdom
+US,1790.0,United States of America
+US,1791.0,United States of America
+DK,1792.0,Denmark
+FR,1792.0,France
+PL,1792.0,Poland
+GB,1792.0,United Kingdom
+DE,1793.0,Germany
+JP,1793.0,Japan
+US,1793.0,United States of America
+HU,1794.0,Hungary
+US,1795.0,United States of America
+GB,1796.0,United Kingdom
+IT,1796.0,Italy
+FR,1796.0,France
+CH,1796.0,Switzerland
+US,1797.0,United States of America
+FR,1798.0,France
+GB,1798.0,United Kingdom
+US,1798.0,United States of America
+US,1799.0,United States of America
+DE,1800.0,Germany
+SE,1800.0,Sweden
+DK,1800.0,Denmark
+GR,1801.0,Greece
+CY,1801.0,Cyprus
+FR,1801.0,France
+US,1802.0,United States of America
+US,1803.0,United States of America
+US,1804.0,United States of America
+US,1805.0,United States of America
+US,1806.0,United States of America
+US,1807.0,United States of America
+SE,1808.0,Sweden
+BR,1809.0,Brazil
+UY,1810.0,Uruguay
+US,1810.0,United States of America
+DE,1810.0,Germany
+PY,1810.0,Paraguay
+FR,1811.0,France
+DE,1812.0,Germany
+GB,1812.0,United Kingdom
+US,1812.0,United States of America
+US,1813.0,United States of America
+HK,1814.0,Hong Kong
+FR,1815.0,France
+RU,1815.0,Russia
+DE,1816.0,Germany
+US,1816.0,United States of America
+US,1817.0,United States of America
+IE,1818.0,Ireland
+US,1819.0,United States of America
+RU,1820.0,Russia
+US,1821.0,United States of America
+ES,1822.0,Spain
+GB,1823.0,United Kingdom
+US,1824.0,United States of America
+US,1825.0,United States of America
+US,1826.0,United States of America
+US,1827.0,United States of America
+JP,1828.0,Japan
+US,1829.0,United States of America
+FR,1830.0,France
+DE,1830.0,Germany
+US,1831.0,United States of America
+RU,1832.0,Russia
+FR,1833.0,France
+IT,1833.0,Italy
+KR,1834.0,South Korea
+US,1835.0,United States of America
+US,1836.0,United States of America
+US,1837.0,United States of America
+US,1838.0,United States of America
+FR,1838.0,France
+GB,1839.0,United Kingdom
+US,1839.0,United States of America
+US,1840.0,United States of America
+CA,1841.0,Canada
+DE,1841.0,Germany
+US,1841.0,United States of America
+US,1842.0,United States of America
+US,1843.0,United States of America
+DK,1844.0,Denmark
+US,1845.0,United States of America
+US,1846.0,United States of America
+NL,1847.0,Netherlands
+BE,1847.0,Belgium
+US,1848.0,United States of America
+US,1849.0,United States of America
+IN,1850.0,India
+US,1851.0,United States of America
+CA,1852.0,Canada
+US,1852.0,United States of America
+US,1853.0,United States of America
+US,1854.0,United States of America
+US,1855.0,United States of America
+US,1856.0,United States of America
+US,1857.0,United States of America
+IT,1858.0,Italy
+HK,1859.0,Hong Kong
+CN,1859.0,China
+US,1860.0,United States of America
+US,1861.0,United States of America
+US,1862.0,United States of America
+US,1863.0,United States of America
+US,1864.0,United States of America
+US,1865.0,United States of America
+US,1866.0,United States of America
+US,1867.0,United States of America
+US,1868.0,United States of America
+US,1869.0,United States of America
+US,1870.0,United States of America
+GB,1871.0,United Kingdom
+US,1871.0,United States of America
+US,1872.0,United States of America
+US,1873.0,United States of America
+CN,1874.0,China
+HK,1874.0,Hong Kong
+BE,1875.0,Belgium
+DE,1876.0,Germany
+US,1876.0,United States of America
+NL,1877.0,Netherlands
+US,1877.0,United States of America
+US,1878.0,United States of America
+FR,1879.0,France
+US,1879.0,United States of America
+ES,1879.0,Spain
+US,1880.0,United States of America
+CA,1881.0,Canada
+GB,1881.0,United Kingdom
+US,1881.0,United States of America
+US,1882.0,United States of America
+US,1883.0,United States of America
+JP,1884.0,Japan
+AU,1885.0,Australia
+US,1885.0,United States of America
+FR,1886.0,France
+ES,1886.0,Spain
+BE,1887.0,Belgium
+FR,1887.0,France
+US,1888.0,United States of America
+US,1889.0,United States of America
+IT,1890.0,Italy
+MA,1890.0,Morocco
+GB,1890.0,United Kingdom
+RU,1891.0,Russia
+US,1893.0,United States of America
+US,1894.0,United States of America
+US,1895.0,United States of America
+US,1896.0,United States of America
+US,1897.0,United States of America
+FR,1898.0,France
+JP,1898.0,Japan
+GB,1898.0,United Kingdom
+US,1898.0,United States of America
+US,1899.0,United States of America
+IN,1900.0,India
+CH,1900.0,Switzerland
+US,1901.0,United States of America
+ZA,1901.0,South Africa
+CA,1903.0,Canada
+RU,1903.0,Russia
+US,1903.0,United States of America
+FI,1904.0,Finland
+SE,1904.0,Sweden
+US,1905.0,United States of America
+GB,1906.0,United Kingdom
+US,1906.0,United States of America
+GB,1907.0,United Kingdom
+CA,1908.0,Canada
+US,1908.0,United States of America
+FR,1909.0,France
+IS,1909.0,Iceland
+GB,1909.0,United Kingdom
+US,1909.0,United States of America
+US,1910.0,United States of America
+GB,1911.0,United Kingdom
+US,1911.0,United States of America
+MX,1912.0,Mexico
+US,1912.0,United States of America
+MX,1913.0,Mexico
+ES,1913.0,Spain
+US,1914.0,United States of America
+US,1915.0,United States of America
+FR,1916.0,France
+US,1917.0,United States of America
+US,1918.0,United States of America
+US,1919.0,United States of America
+US,1920.0,United States of America
+US,1921.0,United States of America
+US,1922.0,United States of America
+GB,1923.0,United Kingdom
+US,1923.0,United States of America
+CH,1923.0,Switzerland
+US,1925.0,United States of America
+US,1926.0,United States of America
+GB,1926.0,United Kingdom
+GB,1927.0,United Kingdom
+US,1927.0,United States of America
+IN,1928.0,India
+CA,1929.0,Canada
+DE,1929.0,Germany
+US,1929.0,United States of America
+BE,1930.0,Belgium
+DE,1930.0,Germany
+GB,1930.0,United Kingdom
+US,1930.0,United States of America
+GB,1931.0,United Kingdom
+US,1931.0,United States of America
+US,1932.0,United States of America
+US,1933.0,United States of America
+US,1934.0,United States of America
+US,1935.0,United States of America
+US,1936.0,United States of America
+US,1937.0,United States of America
+US,1938.0,United States of America
+US,1939.0,United States of America
+US,1940.0,United States of America
+US,1941.0,United States of America
+US,1942.0,United States of America
+US,1943.0,United States of America
+US,1944.0,United States of America
+GB,1945.0,United Kingdom
+US,1945.0,United States of America
+US,1946.0,United States of America
+BR,1947.0,Brazil
+US,1947.0,United States of America
+AU,1948.0,Australia
+IN,1949.0,India
+US,1950.0,United States of America
+US,1951.0,United States of America
+CA,1951.0,Canada
+ES,1952.0,Spain
+FR,1952.0,France
+US,1953.0,United States of America
+RU,1953.0,Russia
+US,1954.0,United States of America
+US,1955.0,United States of America
+US,1956.0,United States of America
+US,1957.0,United States of America
+US,1958.0,United States of America
+US,1959.0,United States of America
+US,1960.0,United States of America
+US,1961.0,United States of America
+US,1962.0,United States of America
+US,1963.0,United States of America
+US,1964.0,United States of America
+MR,1965.0,Mauritania
+FR,1965.0,France
+IL,1966.0,Israel
+US,1966.0,United States of America
+US,1967.0,United States of America
+US,1968.0,United States of America
+US,1969.0,United States of America
+US,1970.0,United States of America
+FI,1971.0,Finland
+DE,1971.0,Germany
+GB,1971.0,United Kingdom
+US,1972.0,United States of America
+GB,1973.0,United Kingdom
+US,1973.0,United States of America
+CA,1974.0,Canada
+US,1975.0,United States of America
+RU,1976.0,Russia
+US,1977.0,United States of America
+US,1978.0,United States of America
+CA,1979.0,Canada
+US,1979.0,United States of America
+HK,1980.0,Hong Kong
+US,1981.0,United States of America
+US,1982.0,United States of America
+GB,1983.0,United Kingdom
+US,1983.0,United States of America
+GB,1984.0,United Kingdom
+US,1985.0,United States of America
+RO,1986.0,Romania
+BG,1986.0,Bulgaria
+CZ,1986.0,Czech Republic
+FR,1986.0,France
+CN,1987.0,China
+US,1987.0,United States of America
+IN,1988.0,India
+US,1989.0,United States of America
+IN,1990.0,India
+US,1991.0,United States of America
+US,1992.0,United States of America
+IN,1993.0,India
+US,1994.0,United States of America
+US,1995.0,United States of America
+US,1996.0,United States of America
+MT,1997.0,Malta
+MA,1997.0,Morocco
+US,1997.0,United States of America
+US,1998.0,United States of America
+US,1999.0,United States of America
+AU,2000.0,Australia
+US,2000.0,United States of America
+US,2001.0,United States of America
+US,2002.0,United States of America
+DE,2003.0,Germany
+US,2003.0,United States of America
+US,2004.0,United States of America
+US,2005.0,United States of America
+AU,2005.0,Australia
+US,2006.0,United States of America
+US,2007.0,United States of America
+US,2008.0,United States of America
+RU,2009.0,Russia
+RU,2010.0,Russia
+US,2012.0,United States of America
+CA,2013.0,Canada
+US,2013.0,United States of America
+US,2015.0,United States of America
+US,2016.0,United States of America
+US,2017.0,United States of America
+AE,2018.0,United Arab Emirates
+US,2018.0,United States of America
+GB,2019.0,United Kingdom
+US,2019.0,United States of America
+AU,2020.0,Australia
+US,2020.0,United States of America
+US,2021.0,United States of America
+BE,2022.0,Belgium
+FR,2022.0,France
+GB,2022.0,United Kingdom
+US,2023.0,United States of America
+US,2024.0,United States of America
+US,2025.0,United States of America
+DE,2026.0,Germany
+US,2027.0,United States of America
+IN,2028.0,India
+US,2029.0,United States of America
+US,2030.0,United States of America
+GB,2031.0,United Kingdom
+US,2031.0,United States of America
+US,2032.0,United States of America
+US,2033.0,United States of America
+US,2034.0,United States of America
+US,2035.0,United States of America
+NZ,2036.0,New Zealand
+US,2036.0,United States of America
+DE,2036.0,Germany
+US,2037.0,United States of America
+IN,2038.0,India
+US,2039.0,United States of America
+GB,2040.0,United Kingdom
+US,2040.0,United States of America
+US,2041.0,United States of America
+US,2042.0,United States of America
+DE,2043.0,Germany
+US,2043.0,United States of America
+FR,2043.0,France
+CA,2043.0,Canada
+CA,2044.0,Canada
+US,2044.0,United States of America
+NZ,2045.0,New Zealand
+US,2045.0,United States of America
+DE,2046.0,Germany
+US,2046.0,United States of America
+US,2047.0,United States of America
+US,2048.0,United States of America
+DE,2049.0,Germany
+GB,2049.0,United Kingdom
+JP,2049.0,Japan
+US,2049.0,United States of America
+US,2050.0,United States of America
+US,2051.0,United States of America
+IE,2052.0,Ireland
+GB,2052.0,United Kingdom
+CN,2053.0,China
+HK,2053.0,Hong Kong
+ES,2054.0,Spain
+US,2054.0,United States of America
+GB,2054.0,United Kingdom
+FR,2054.0,France
+DE,2054.0,Germany
+US,2055.0,United States of America
+US,2056.0,United States of America
+US,2057.0,United States of America
+US,2058.0,United States of America
+US,2059.0,United States of America
+BE,2060.0,Belgium
+US,2060.0,United States of America
+US,2061.0,United States of America
+US,2062.0,United States of America
+DE,2063.0,Germany
+US,2063.0,United States of America
+US,2064.0,United States of America
+HK,2065.0,Hong Kong
+CN,2065.0,China
+US,2066.0,United States of America
+MX,2067.0,Mexico
+US,2068.0,United States of America
+US,2069.0,United States of America
+JP,2069.0,Japan
+AU,2070.0,Australia
+US,2070.0,United States of America
+US,2071.0,United States of America
+IT,2072.0,Italy
+US,2072.0,United States of America
+DK,2073.0,Denmark
+GB,2073.0,United Kingdom
+FR,2074.0,France
+DE,2074.0,Germany
+US,2074.0,United States of America
+RU,2075.0,Russia
+US,2076.0,United States of America
+GB,2077.0,United Kingdom
+US,2078.0,United States of America
+US,2079.0,United States of America
+RU,2080.0,Russia
+US,2081.0,United States of America
+US,2082.0,United States of America
+US,2083.0,United States of America
+KR,2084.0,South Korea
+US,2085.0,United States of America
+GB,2086.0,United Kingdom
+US,2087.0,United States of America
+FR,2087.0,France
+US,2088.0,United States of America
+US,2089.0,United States of America
+CA,2090.0,Canada
+US,2090.0,United States of America
+US,2091.0,United States of America
+US,2092.0,United States of America
+US,2093.0,United States of America
+GB,2094.0,United Kingdom
+IT,2094.0,Italy
+FR,2094.0,France
+TN,2094.0,Tunisia
+HK,2095.0,Hong Kong
+JP,2096.0,Japan
+US,2096.0,United States of America
+CA,2097.0,Canada
+DE,2097.0,Germany
+US,2098.0,United States of America
+FR,2099.0,France
+US,2100.0,United States of America
+IT,2101.0,Italy
+CN,2102.0,China
+US,2103.0,United States of America
+US,2104.0,United States of America
+GB,2105.0,United Kingdom
+US,2105.0,United States of America
+CA,2106.0,Canada
+US,2107.0,United States of America
+US,2108.0,United States of America
+US,2109.0,United States of America
+JP,2110.0,Japan
+US,2110.0,United States of America
+IN,2111.0,India
+GB,2111.0,United Kingdom
+GB,2112.0,United Kingdom
+US,2112.0,United States of America
+US,2113.0,United States of America
+US,2114.0,United States of America
+US,2115.0,United States of America
+CA,2116.0,Canada
+US,2116.0,United States of America
+US,2117.0,United States of America
+US,2118.0,United States of America
+PH,2118.0,Philippines
+US,2119.0,United States of America
+US,2120.0,United States of America
+US,2121.0,United States of America
+US,2122.0,United States of America
+US,2123.0,United States of America
+FR,2124.0,France
+US,2124.0,United States of America
+US,2125.0,United States of America
+US,2126.0,United States of America
+US,2127.0,United States of America
+US,2128.0,United States of America
+US,2129.0,United States of America
+CA,2129.0,Canada
+US,2131.0,United States of America
+GB,2132.0,United Kingdom
+US,2132.0,United States of America
+FR,2133.0,France
+US,2133.0,United States of America
+NZ,2134.0,New Zealand
+KR,2134.0,South Korea
+CZ,2135.0,Czech Republic
+US,2135.0,United States of America
+US,2136.0,United States of America
+US,2137.0,United States of America
+US,2138.0,United States of America
+US,2139.0,United States of America
+US,2140.0,United States of America
+FR,2141.0,France
+GB,2141.0,United Kingdom
+US,2141.0,United States of America
+ZA,2141.0,South Africa
+US,2142.0,United States of America
+US,2143.0,United States of America
+US,2144.0,United States of America
+CA,2145.0,Canada
+US,2146.0,United States of America
+US,2147.0,United States of America
+US,2148.0,United States of America
+IE,2149.0,Ireland
+US,2149.0,United States of America
+US,2150.0,United States of America
+RU,2151.0,Russia
+US,2152.0,United States of America
+US,2153.0,United States of America
+ES,2154.0,Spain
+UA,2155.0,Ukraine
+RU,2155.0,Russia
+US,2156.0,United States of America
+US,2157.0,United States of America
+US,2158.0,United States of America
+US,2159.0,United States of America
+IN,2160.0,India
+DE,2160.0,Germany
+GB,2160.0,United Kingdom
+US,2160.0,United States of America
+CA,2161.0,Canada
+ES,2161.0,Spain
+US,2162.0,United States of America
+US,2163.0,United States of America
+US,2164.0,United States of America
+US,2165.0,United States of America
+US,2166.0,United States of America
+US,2167.0,United States of America
+US,2168.0,United States of America
+BR,2169.0,Brazil
+US,2169.0,United States of America
+US,2170.0,United States of America
+FR,2171.0,France
+GR,2171.0,Greece
+IE,2171.0,Ireland
+NL,2171.0,Netherlands
+GB,2171.0,United Kingdom
+US,2172.0,United States of America
+US,2173.0,United States of America
+IT,2174.0,Italy
+IR,2175.0,Iran
+FR,2175.0,France
+US,2176.0,United States of America
+FR,2177.0,France
+US,2178.0,United States of America
+US,2179.0,United States of America
+US,2180.0,United States of America
+US,2181.0,United States of America
+US,2182.0,United States of America
+US,2183.0,United States of America
+US,2184.0,United States of America
+US,2185.0,United States of America
+FR,2186.0,France
+CR,2186.0,Costa Rica
+ES,2186.0,Spain
+GB,2186.0,United Kingdom
+US,2186.0,United States of America
+US,2187.0,United States of America
+GB,2187.0,United Kingdom
+FR,2187.0,France
+JP,2187.0,Japan
+US,2188.0,United States of America
+US,2189.0,United States of America
+US,2190.0,United States of America
+US,2191.0,United States of America
+US,2192.0,United States of America
+HK,2193.0,Hong Kong
+JP,2194.0,Japan
+US,2195.0,United States of America
+IN,2196.0,India
+GB,2196.0,United Kingdom
+IE,2197.0,Ireland
+GB,2197.0,United Kingdom
+FR,2198.0,France
+US,2198.0,United States of America
+RU,2199.0,Russia
+US,2200.0,United States of America
+GB,2201.0,United Kingdom
+US,2201.0,United States of America
+US,2202.0,United States of America
+US,2203.0,United States of America
+US,2204.0,United States of America
+US,2205.0,United States of America
+DE,2206.0,Germany
+US,2206.0,United States of America
+US,2207.0,United States of America
+US,2208.0,United States of America
+US,2209.0,United States of America
+US,2210.0,United States of America
+FR,2211.0,France
+US,2212.0,United States of America
+FR,2213.0,France
+ES,2214.0,Spain
+FR,2214.0,France
+US,2215.0,United States of America
+US,2216.0,United States of America
+US,2217.0,United States of America
+US,2218.0,United States of America
+US,2219.0,United States of America
+GB,2220.0,United Kingdom
+NL,2220.0,Netherlands
+IT,2221.0,Italy
+US,2222.0,United States of America
+GB,2223.0,United Kingdom
+US,2223.0,United States of America
+US,2224.0,United States of America
+IN,2225.0,India
+US,2226.0,United States of America
+BS,2227.0,Bahamas
+US,2227.0,United States of America
+US,2228.0,United States of America
+MX,2229.0,Mexico
+US,2229.0,United States of America
+CA,2229.0,Canada
+US,2230.0,United States of America
+US,2231.0,United States of America
+US,2232.0,United States of America
+FR,2233.0,France
+US,2233.0,United States of America
+US,2234.0,United States of America
+US,2235.0,United States of America
+US,2236.0,United States of America
+FR,2237.0,France
+GB,2237.0,United Kingdom
+BF,2238.0,Burkina Faso
+DE,2238.0,Germany
+GH,2238.0,Ghana
+GB,2238.0,United Kingdom
+US,2238.0,United States of America
+US,2239.0,United States of America
+IN,2240.0,India
+US,2241.0,United States of America
+GB,2242.0,United Kingdom
+US,2242.0,United States of America
+US,2243.0,United States of America
+US,2244.0,United States of America
+IE,2245.0,Ireland
+LU,2245.0,Luxembourg
+RU,2245.0,Russia
+GB,2245.0,United Kingdom
+US,2245.0,United States of America
+US,2246.0,United States of America
+US,2247.0,United States of America
+US,2248.0,United States of America
+FR,2249.0,France
+DE,2249.0,Germany
+GB,2249.0,United Kingdom
+US,2249.0,United States of America
+US,2250.0,United States of America
+GB,2251.0,United Kingdom
+IN,2252.0,India
+US,2253.0,United States of America
+BR,2254.0,Brazil
+FR,2255.0,France
+US,2256.0,United States of America
+FR,2257.0,France
+CA,2258.0,Canada
+US,2258.0,United States of America
+US,2259.0,United States of America
+US,2260.0,United States of America
+US,2261.0,United States of America
+US,2262.0,United States of America
+US,2263.0,United States of America
+US,2264.0,United States of America
+US,2265.0,United States of America
+IN,2266.0,India
+US,2267.0,United States of America
+US,2268.0,United States of America
+CN,2269.0,China
+US,2269.0,United States of America
+US,2270.0,United States of America
+US,2271.0,United States of America
+DE,2272.0,Germany
+US,2273.0,United States of America
+US,2274.0,United States of America
+BG,2275.0,Bulgaria
+US,2275.0,United States of America
+GB,2275.0,United Kingdom
+CN,2276.0,China
+FR,2276.0,France
+HK,2276.0,Hong Kong
+NO,2277.0,Norway
+CH,2278.0,Switzerland
+FR,2278.0,France
+AU,2279.0,Australia
+US,2279.0,United States of America
+US,2280.0,United States of America
+US,2281.0,United States of America
+US,2283.0,United States of America
+US,2284.0,United States of America
+JP,2285.0,Japan
+GB,2286.0,United Kingdom
+US,2287.0,United States of America
+IN,2288.0,India
+RU,2289.0,Russia
+US,2290.0,United States of America
+US,2291.0,United States of America
+US,2292.0,United States of America
+RU,2293.0,Russia
+US,2294.0,United States of America
+US,2295.0,United States of America
+US,2297.0,United States of America
+US,2298.0,United States of America
+DK,2299.0,Denmark
+US,2300.0,United States of America
+GB,2301.0,United Kingdom
+RU,2302.0,Russia
+DE,2303.0,Germany
+US,2304.0,United States of America
+US,2305.0,United States of America
+US,2306.0,United States of America
+JP,2307.0,Japan
+CA,2308.0,Canada
+US,2308.0,United States of America
+US,2309.0,United States of America
+GB,2310.0,United Kingdom
+US,2310.0,United States of America
+BE,2311.0,Belgium
+FR,2311.0,France
+US,2312.0,United States of America
+US,2313.0,United States of America
+FR,2314.0,France
+GB,2314.0,United Kingdom
+BE,2315.0,Belgium
+FR,2315.0,France
+DE,2315.0,Germany
+IL,2315.0,Israel
+LU,2315.0,Luxembourg
+PL,2315.0,Poland
+US,2316.0,United States of America
+US,2317.0,United States of America
+US,2318.0,United States of America
+US,2319.0,United States of America
+US,2320.0,United States of America
+US,2321.0,United States of America
+US,2322.0,United States of America
+US,2323.0,United States of America
+FR,2324.0,France
+US,2325.0,United States of America
+DE,2325.0,Germany
+FR,2325.0,France
+GB,2325.0,United Kingdom
+US,2326.0,United States of America
+GB,2326.0,United Kingdom
+RO,2326.0,Romania
+IT,2326.0,Italy
+US,2327.0,United States of America
+US,2328.0,United States of America
+US,2329.0,United States of America
+CN,2330.0,China
+US,2330.0,United States of America
+KR,2330.0,South Korea
+HK,2330.0,Hong Kong
+US,2331.0,United States of America
+GB,2332.0,United Kingdom
+DE,2333.0,Germany
+US,2333.0,United States of America
+GB,2334.0,United Kingdom
+HK,2335.0,Hong Kong
+FR,2336.0,France
+US,2337.0,United States of America
+US,2338.0,United States of America
+DE,2339.0,Germany
+US,2339.0,United States of America
+US,2340.0,United States of America
+NZ,2341.0,New Zealand
+US,2341.0,United States of America
+CA,2342.0,Canada
+FR,2342.0,France
+US,2342.0,United States of America
+US,2344.0,United States of America
+GB,2345.0,United Kingdom
+US,2345.0,United States of America
+US,2346.0,United States of America
+US,2347.0,United States of America
+US,2348.0,United States of America
+US,2349.0,United States of America
+US,2350.0,United States of America
+US,2351.0,United States of America
+US,2352.0,United States of America
+US,2353.0,United States of America
+IN,2354.0,India
+US,2355.0,United States of America
+US,2356.0,United States of America
+US,2357.0,United States of America
+GB,2358.0,United Kingdom
+US,2358.0,United States of America
+US,2359.0,United States of America
+US,2360.0,United States of America
+US,2361.0,United States of America
+AR,2361.0,Argentina
+CL,2361.0,Chile
+FR,2361.0,France
+ES,2361.0,Spain
+US,2362.0,United States of America
+US,2363.0,United States of America
+US,2364.0,United States of America
+US,2365.0,United States of America
+DE,2366.0,Germany
+FR,2367.0,France
+GB,2367.0,United Kingdom
+US,2368.0,United States of America
+HK,2369.0,Hong Kong
+US,2370.0,United States of America
+ES,2371.0,Spain
+US,2371.0,United States of America
+US,2372.0,United States of America
+US,2373.0,United States of America
+GB,2374.0,United Kingdom
+US,2375.0,United States of America
+US,2376.0,United States of America
+IN,2377.0,India
+US,2378.0,United States of America
+US,2379.0,United States of America
+US,2380.0,United States of America
+US,2381.0,United States of America
+US,2382.0,United States of America
+GB,2383.0,United Kingdom
+FR,2384.0,France
+IT,2384.0,Italy
+AU,2385.0,Australia
+US,2386.0,United States of America
+US,2387.0,United States of America
+US,2388.0,United States of America
+US,2389.0,United States of America
+JP,2390.0,Japan
+IN,2391.0,India
+BS,2392.0,Bahamas
+FR,2392.0,France
+GB,2392.0,United Kingdom
+US,2392.0,United States of America
+JP,2393.0,Japan
+GB,2394.0,United Kingdom
+JP,2394.0,Japan
+US,2395.0,United States of America
+FR,2396.0,France
+US,2397.0,United States of America
+US,2398.0,United States of America
+US,2399.0,United States of America
+JP,2400.0,Japan
+US,2401.0,United States of America
+US,2402.0,United States of America
+US,2403.0,United States of America
+US,2404.0,United States of America
+US,2405.0,United States of America
+US,2406.0,United States of America
+US,2407.0,United States of America
+US,2408.0,United States of America
+US,2409.0,United States of America
+US,2410.0,United States of America
+US,2411.0,United States of America
+US,2412.0,United States of America
+US,2413.0,United States of America
+AU,2414.0,Australia
+US,2415.0,United States of America
+US,2416.0,United States of America
+CL,2417.0,Chile
+US,2417.0,United States of America
+US,2418.0,United States of America
+US,2419.0,United States of America
+US,2420.0,United States of America
+HU,2420.0,Hungary
+US,2421.0,United States of America
+FR,2422.0,France
+US,2423.0,United States of America
+IN,2424.0,India
+AU,2425.0,Australia
+US,2425.0,United States of America
+US,2426.0,United States of America
+ES,2427.0,Spain
+US,2429.0,United States of America
+US,2430.0,United States of America
+US,2431.0,United States of America
+CA,2432.0,Canada
+US,2432.0,United States of America
+US,2433.0,United States of America
+US,2434.0,United States of America
+US,2435.0,United States of America
+HK,2436.0,Hong Kong
+IN,2437.0,India
+US,2438.0,United States of America
+US,2439.0,United States of America
+US,2440.0,United States of America
+DE,2441.0,Germany
+US,2441.0,United States of America
+US,2442.0,United States of America
+US,2443.0,United States of America
+US,2444.0,United States of America
+US,2446.0,United States of America
+US,2447.0,United States of America
+US,2448.0,United States of America
+DE,2449.0,Germany
+US,2449.0,United States of America
+US,2450.0,United States of America
+US,2451.0,United States of America
+GB,2452.0,United Kingdom
+US,2453.0,United States of America
+US,2454.0,United States of America
+US,2455.0,United States of America
+US,2456.0,United States of America
+US,2457.0,United States of America
+US,2458.0,United States of America
+US,2459.0,United States of America
+US,2460.0,United States of America
+CN,2461.0,China
+DE,2461.0,Germany
+GB,2461.0,United Kingdom
+US,2461.0,United States of America
+CN,2462.0,China
+US,2463.0,United States of America
+FR,2464.0,France
+GB,2465.0,United Kingdom
+US,2465.0,United States of America
+US,2466.0,United States of America
+DE,2466.0,Germany
+US,2467.0,United States of America
+US,2468.0,United States of America
+MX,2469.0,Mexico
+US,2469.0,United States of America
+US,2470.0,United States of America
+US,2471.0,United States of America
+US,2472.0,United States of America
+US,2473.0,United States of America
+US,2474.0,United States of America
+CN,2475.0,China
+US,2476.0,United States of America
+US,2477.0,United States of America
+US,2478.0,United States of America
+GB,2479.0,United Kingdom
+US,2479.0,United States of America
+US,2480.0,United States of America
+IN,2481.0,India
+GB,2481.0,United Kingdom
+US,2482.0,United States of America
+FR,2482.0,France
+CA,2483.0,Canada
+US,2483.0,United States of America
+US,2484.0,United States of America
+HK,2485.0,Hong Kong
+US,2486.0,United States of America
+AU,2487.0,Australia
+DE,2487.0,Germany
+US,2487.0,United States of America
+US,2488.0,United States of America
+US,2489.0,United States of America
+US,2490.0,United States of America
+US,2491.0,United States of America
+CA,2491.0,Canada
+DE,2491.0,Germany
+US,2492.0,United States of America
+US,2493.0,United States of America
+US,2494.0,United States of America
+US,2495.0,United States of America
+DE,2496.0,Germany
+FR,2496.0,France
+US,2497.0,United States of America
+US,2498.0,United States of America
+RU,2499.0,Russia
+US,2500.0,United States of America
+US,2501.0,United States of America
+GB,2502.0,United Kingdom
+US,2503.0,United States of America
+US,2504.0,United States of America
+RU,2506.0,Russia
+US,2507.0,United States of America
+US,2508.0,United States of America
+FR,2509.0,France
+DE,2509.0,Germany
+GB,2509.0,United Kingdom
+FR,2510.0,France
+GB,2510.0,United Kingdom
+GB,2512.0,United Kingdom
+CA,2513.0,Canada
+US,2513.0,United States of America
+US,2514.0,United States of America
+US,2515.0,United States of America
+DE,2516.0,Germany
+FR,2516.0,France
+CH,2516.0,Switzerland
+GB,2517.0,United Kingdom
+BE,2518.0,Belgium
+FR,2518.0,France
+DE,2518.0,Germany
+IT,2518.0,Italy
+ES,2518.0,Spain
+US,2519.0,United States of America
+US,2520.0,United States of America
+US,2521.0,United States of America
+US,2522.0,United States of America
+US,2523.0,United States of America
+GB,2524.0,United Kingdom
+HK,2525.0,Hong Kong
+US,2526.0,United States of America
+US,2527.0,United States of America
+US,2528.0,United States of America
+US,2529.0,United States of America
+IT,2530.0,Italy
+RU,2530.0,Russia
+DE,2531.0,Germany
+US,2531.0,United States of America
+US,2532.0,United States of America
+NZ,2533.0,New Zealand
+US,2533.0,United States of America
+CA,2534.0,Canada
+US,2535.0,United States of America
+US,2536.0,United States of America
+US,2537.0,United States of America
+CN,2538.0,China
+DE,2538.0,Germany
+GB,2538.0,United Kingdom
+IN,2539.0,India
+US,2540.0,United States of America
+KR,2541.0,South Korea
+US,2542.0,United States of America
+US,2543.0,United States of America
+US,2544.0,United States of America
+US,2545.0,United States of America
+HK,2546.0,Hong Kong
+US,2546.0,United States of America
+US,2547.0,United States of America
+US,2548.0,United States of America
+US,2549.0,United States of America
+US,2550.0,United States of America
+NL,2550.0,Netherlands
+US,2551.0,United States of America
+US,2552.0,United States of America
+US,2553.0,United States of America
+US,2554.0,United States of America
+FR,2555.0,France
+US,2556.0,United States of America
+US,2557.0,United States of America
+US,2558.0,United States of America
+US,2559.0,United States of America
+RU,2560.0,Russia
+US,2561.0,United States of America
+US,2562.0,United States of America
+US,2563.0,United States of America
+IN,2564.0,India
+US,2565.0,United States of America
+US,2566.0,United States of America
+US,2567.0,United States of America
+IN,2568.0,India
+US,2569.0,United States of America
+US,2570.0,United States of America
+US,2571.0,United States of America
+US,2572.0,United States of America
+CN,2573.0,China
+JP,2574.0,Japan
+GB,2575.0,United Kingdom
+US,2575.0,United States of America
+US,2576.0,United States of America
+BR,2577.0,Brazil
+GB,2577.0,United Kingdom
+US,2578.0,United States of America
+US,2579.0,United States of America
+US,2580.0,United States of America
+US,2581.0,United States of America
+GB,2582.0,United Kingdom
+US,2582.0,United States of America
+SE,2583.0,Sweden
+DE,2584.0,Germany
+GB,2584.0,United Kingdom
+US,2584.0,United States of America
+US,2585.0,United States of America
+US,2586.0,United States of America
+GB,2587.0,United Kingdom
+US,2587.0,United States of America
+US,2588.0,United States of America
+GB,2589.0,United Kingdom
+US,2590.0,United States of America
+US,2591.0,United States of America
+US,2592.0,United States of America
+US,2593.0,United States of America
+US,2594.0,United States of America
+IT,2594.0,Italy
+HU,2595.0,Hungary
+US,2596.0,United States of America
+US,2597.0,United States of America
+US,2598.0,United States of America
+GB,2599.0,United Kingdom
+US,2600.0,United States of America
+FR,2601.0,France
+US,2602.0,United States of America
+US,2603.0,United States of America
+US,2604.0,United States of America
+US,2605.0,United States of America
+GB,2606.0,United Kingdom
+US,2606.0,United States of America
+AU,2607.0,Australia
+US,2607.0,United States of America
+US,2608.0,United States of America
+DE,2609.0,Germany
+GB,2609.0,United Kingdom
+US,2609.0,United States of America
+US,2610.0,United States of America
+KR,2611.0,South Korea
+US,2612.0,United States of America
+FR,2613.0,France
+DE,2613.0,Germany
+GB,2613.0,United Kingdom
+CA,2614.0,Canada
+US,2614.0,United States of America
+US,2615.0,United States of America
+US,2616.0,United States of America
+US,2617.0,United States of America
+US,2618.0,United States of America
+US,2619.0,United States of America
+US,2620.0,United States of America
+GB,2621.0,United Kingdom
+US,2622.0,United States of America
+JP,2623.0,Japan
+FR,2624.0,France
+US,2625.0,United States of America
+CL,2626.0,Chile
+CZ,2627.0,Czech Republic
+DE,2627.0,Germany
+GB,2627.0,United Kingdom
+US,2627.0,United States of America
+US,2628.0,United States of America
+BE,2629.0,Belgium
+RO,2629.0,Romania
+CA,2630.0,Canada
+US,2630.0,United States of America
+US,2631.0,United States of America
+DE,2632.0,Germany
+HK,2632.0,Hong Kong
+SG,2632.0,Singapore
+US,2632.0,United States of America
+AU,2633.0,Australia
+US,2633.0,United States of America
+US,2634.0,United States of America
+HK,2635.0,Hong Kong
+US,2636.0,United States of America
+US,2637.0,United States of America
+US,2638.0,United States of America
+US,2639.0,United States of America
+US,2640.0,United States of America
+US,2641.0,United States of America
+US,2642.0,United States of America
+US,2643.0,United States of America
+US,2644.0,United States of America
+US,2645.0,United States of America
+CN,2646.0,China
+AU,2647.0,Australia
+CZ,2648.0,Czech Republic
+US,2648.0,United States of America
+AE,2648.0,United Arab Emirates
+US,2649.0,United States of America
+US,2650.0,United States of America
+DE,2650.0,Germany
+CA,2651.0,Canada
+US,2651.0,United States of America
+US,2652.0,United States of America
+US,2653.0,United States of America
+US,2654.0,United States of America
+FR,2655.0,France
+AU,2656.0,Australia
+US,2657.0,United States of America
+ES,2657.0,Spain
+CA,2658.0,Canada
+FR,2658.0,France
+US,2658.0,United States of America
+US,2659.0,United States of America
+US,2660.0,United States of America
+US,2661.0,United States of America
+US,2662.0,United States of America
+IN,2663.0,India
+US,2664.0,United States of America
+US,2665.0,United States of America
+US,2666.0,United States of America
+US,2667.0,United States of America
+CA,2668.0,Canada
+US,2668.0,United States of America
+US,2669.0,United States of America
+US,2670.0,United States of America
+US,2671.0,United States of America
+US,2672.0,United States of America
+US,2673.0,United States of America
+SE,2674.0,Sweden
+FR,2674.0,France
+GB,2674.0,United Kingdom
+AU,2675.0,Australia
+FR,2676.0,France
+GB,2676.0,United Kingdom
+US,2676.0,United States of America
+US,2677.0,United States of America
+IT,2678.0,Italy
+FR,2678.0,France
+GB,2679.0,United Kingdom
+US,2679.0,United States of America
+US,2680.0,United States of America
+US,2681.0,United States of America
+CA,2682.0,Canada
+US,2682.0,United States of America
+US,2683.0,United States of America
+US,2684.0,United States of America
+US,2685.0,United States of America
+US,2686.0,United States of America
+FR,2688.0,France
+ID,2689.0,Indonesia
+NZ,2690.0,New Zealand
+US,2690.0,United States of America
+US,2691.0,United States of America
+DE,2692.0,Germany
+NL,2692.0,Netherlands
+US,2692.0,United States of America
+US,2693.0,United States of America
+US,2694.0,United States of America
+US,2695.0,United States of America
+US,2696.0,United States of America
+US,2697.0,United States of America
+US,2698.0,United States of America
+ES,2699.0,Spain
+US,2700.0,United States of America
+GB,2701.0,United Kingdom
+US,2701.0,United States of America
+CA,2702.0,Canada
+US,2703.0,United States of America
+US,2704.0,United States of America
+US,2705.0,United States of America
+LU,2706.0,Luxembourg
+IT,2706.0,Italy
+FR,2706.0,France
+GB,2706.0,United Kingdom
+US,2707.0,United States of America
+US,2708.0,United States of America
+GB,2709.0,United Kingdom
+US,2709.0,United States of America
+US,2710.0,United States of America
+DE,2710.0,Germany
+BE,2710.0,Belgium
+US,2711.0,United States of America
+IN,2712.0,India
+US,2713.0,United States of America
+US,2714.0,United States of America
+US,2715.0,United States of America
+US,2716.0,United States of America
+US,2717.0,United States of America
+US,2718.0,United States of America
+GB,2719.0,United Kingdom
+US,2720.0,United States of America
+US,2721.0,United States of America
+US,2722.0,United States of America
+US,2723.0,United States of America
+US,2724.0,United States of America
+US,2725.0,United States of America
+GB,2726.0,United Kingdom
+US,2727.0,United States of America
+GB,2728.0,United Kingdom
+ES,2729.0,Spain
+US,2730.0,United States of America
+NZ,2731.0,New Zealand
+AU,2731.0,Australia
+FR,2731.0,France
+US,2732.0,United States of America
+US,2734.0,United States of America
+US,2735.0,United States of America
+GB,2735.0,United Kingdom
+IE,2736.0,Ireland
+GB,2736.0,United Kingdom
+US,2736.0,United States of America
+GB,2737.0,United Kingdom
+US,2737.0,United States of America
+GB,2738.0,United Kingdom
+US,2738.0,United States of America
+US,2739.0,United States of America
+US,2740.0,United States of America
+US,2741.0,United States of America
+JP,2742.0,Japan
+CN,2743.0,China
+HK,2743.0,Hong Kong
+US,2744.0,United States of America
+US,2745.0,United States of America
+DE,2746.0,Germany
+US,2746.0,United States of America
+GB,2746.0,United Kingdom
+US,2747.0,United States of America
+FR,2748.0,France
+US,2749.0,United States of America
+US,2750.0,United States of America
+KR,2751.0,South Korea
+GB,2752.0,United Kingdom
+US,2752.0,United States of America
+US,2753.0,United States of America
+US,2754.0,United States of America
+ES,2755.0,Spain
+AR,2755.0,Argentina
+CA,2756.0,Canada
+US,2756.0,United States of America
+US,2757.0,United States of America
+US,2758.0,United States of America
+GB,2759.0,United Kingdom
+HK,2760.0,Hong Kong
+CN,2761.0,China
+RO,2762.0,Romania
+US,2763.0,United States of America
+GB,2764.0,United Kingdom
+US,2764.0,United States of America
+DE,2764.0,Germany
+LU,2764.0,Luxembourg
+IN,2765.0,India
+IT,2766.0,Italy
+FR,2766.0,France
+GB,2767.0,United Kingdom
+US,2767.0,United States of America
+CA,2768.0,Canada
+US,2768.0,United States of America
+US,2769.0,United States of America
+US,2770.0,United States of America
+US,2771.0,United States of America
+US,2772.0,United States of America
+GB,2773.0,United Kingdom
+US,2773.0,United States of America
+CZ,2773.0,Czech Republic
+RO,2773.0,Romania
+US,2774.0,United States of America
+US,2775.0,United States of America
+US,2776.0,United States of America
+US,2777.0,United States of America
+AU,2778.0,Australia
+US,2778.0,United States of America
+US,2779.0,United States of America
+DE,2780.0,Germany
+US,2780.0,United States of America
+US,2781.0,United States of America
+US,2782.0,United States of America
+US,2783.0,United States of America
+US,2784.0,United States of America
+GB,2785.0,United Kingdom
+US,2785.0,United States of America
+GB,2786.0,United Kingdom
+US,2787.0,United States of America
+US,2788.0,United States of America
+FR,2789.0,France
+US,2790.0,United States of America
+BS,2790.0,Bahamas
+US,2791.0,United States of America
+US,2792.0,United States of America
+US,2793.0,United States of America
+US,2794.0,United States of America
+US,2795.0,United States of America
+CA,2796.0,Canada
+GB,2796.0,United Kingdom
+FR,2797.0,France
+DE,2797.0,Germany
+US,2798.0,United States of America
+US,2799.0,United States of America
+US,2800.0,United States of America
+DE,2801.0,Germany
+US,2801.0,United States of America
+US,2802.0,United States of America
+DE,2803.0,Germany
+GB,2803.0,United Kingdom
+US,2803.0,United States of America
+AU,2804.0,Australia
+US,2804.0,United States of America
+MX,2805.0,Mexico
+US,2805.0,United States of America
+US,2806.0,United States of America
+US,2807.0,United States of America
+IN,2808.0,India
+US,2809.0,United States of America
+US,2810.0,United States of America
+SE,2811.0,Sweden
+DE,2811.0,Germany
+CA,2811.0,Canada
+NO,2811.0,Norway
+FR,2811.0,France
+US,2812.0,United States of America
+HU,2813.0,Hungary
+SE,2813.0,Sweden
+DE,2813.0,Germany
+AU,2814.0,Australia
+US,2815.0,United States of America
+US,2816.0,United States of America
+US,2817.0,United States of America
+US,2818.0,United States of America
+US,2819.0,United States of America
+US,2820.0,United States of America
+IN,2821.0,India
+US,2822.0,United States of America
+US,2823.0,United States of America
+FR,2824.0,France
+IL,2824.0,Israel
+IT,2824.0,Italy
+IN,2824.0,India
+US,2825.0,United States of America
+US,2826.0,United States of America
+US,2827.0,United States of America
+CA,2828.0,Canada
+US,2828.0,United States of America
+IN,2829.0,India
+US,2830.0,United States of America
+GB,2830.0,United Kingdom
+GB,2831.0,United Kingdom
+US,2831.0,United States of America
+US,2832.0,United States of America
+FR,2833.0,France
+IT,2833.0,Italy
+GB,2833.0,United Kingdom
+US,2833.0,United States of America
+US,2834.0,United States of America
+US,2835.0,United States of America
+US,2836.0,United States of America
+US,2837.0,United States of America
+GB,2838.0,United Kingdom
+US,2838.0,United States of America
+US,2839.0,United States of America
+US,2840.0,United States of America
+GB,2841.0,United Kingdom
+ZA,2841.0,South Africa
+DE,2841.0,Germany
+CA,2841.0,Canada
+US,2842.0,United States of America
+DE,2843.0,Germany
+US,2843.0,United States of America
+US,2844.0,United States of America
+DE,2845.0,Germany
+US,2845.0,United States of America
+US,2846.0,United States of America
+US,2847.0,United States of America
+GB,2848.0,United Kingdom
+US,2849.0,United States of America
+RU,2850.0,Russia
+US,2851.0,United States of America
+US,2852.0,United States of America
+CA,2853.0,Canada
+US,2853.0,United States of America
+US,2854.0,United States of America
+US,2855.0,United States of America
+GB,2856.0,United Kingdom
+JP,2857.0,Japan
+IN,2858.0,India
+US,2859.0,United States of America
+IN,2860.0,India
+IN,2861.0,India
+GB,2861.0,United Kingdom
+US,2862.0,United States of America
+RU,2863.0,Russia
+US,2864.0,United States of America
+DE,2865.0,Germany
+AT,2865.0,Austria
+IT,2866.0,Italy
+US,2867.0,United States of America
+JP,2868.0,Japan
+US,2868.0,United States of America
+US,2869.0,United States of America
+US,2870.0,United States of America
+GB,2871.0,United Kingdom
+US,2871.0,United States of America
+US,2872.0,United States of America
+PL,2873.0,Poland
+FR,2874.0,France
+CA,2876.0,Canada
+US,2877.0,United States of America
+US,2878.0,United States of America
+US,2879.0,United States of America
+US,2880.0,United States of America
+US,2881.0,United States of America
+IN,2882.0,India
+US,2882.0,United States of America
+DE,2882.0,Germany
+US,2883.0,United States of America
+CA,2884.0,Canada
+US,2884.0,United States of America
+US,2885.0,United States of America
+DE,2886.0,Germany
+US,2888.0,United States of America
+US,2889.0,United States of America
+US,2890.0,United States of America
+US,2891.0,United States of America
+US,2892.0,United States of America
+CA,2892.0,Canada
+GB,2893.0,United Kingdom
+US,2894.0,United States of America
+FR,2895.0,France
+GB,2895.0,United Kingdom
+DE,2896.0,Germany
+US,2896.0,United States of America
+IE,2897.0,Ireland
+GB,2897.0,United Kingdom
+US,2898.0,United States of America
+US,2899.0,United States of America
+US,2900.0,United States of America
+RU,2901.0,Russia
+US,2902.0,United States of America
+US,2903.0,United States of America
+CA,2903.0,Canada
+ID,2903.0,Indonesia
+FR,2904.0,France
+GB,2904.0,United Kingdom
+PK,2904.0,Pakistan
+US,2904.0,United States of America
+GB,2905.0,United Kingdom
+US,2906.0,United States of America
+US,2907.0,United States of America
+US,2908.0,United States of America
+US,2909.0,United States of America
+GB,2910.0,United Kingdom
+US,2910.0,United States of America
+US,2911.0,United States of America
+US,2912.0,United States of America
+FR,2913.0,France
+RU,2913.0,Russia
+DE,2914.0,Germany
+GB,2914.0,United Kingdom
+US,2915.0,United States of America
+GB,2916.0,United Kingdom
+US,2916.0,United States of America
+US,2917.0,United States of America
+US,2918.0,United States of America
+US,2919.0,United States of America
+DE,2921.0,Germany
+GB,2921.0,United Kingdom
+DE,2923.0,Germany
+US,2923.0,United States of America
+US,2924.0,United States of America
+FR,2925.0,France
+IR,2925.0,Iran
+US,2926.0,United States of America
+US,2927.0,United States of America
+GB,2928.0,United Kingdom
+US,2928.0,United States of America
+US,2929.0,United States of America
+DE,2930.0,Germany
+US,2930.0,United States of America
+US,2931.0,United States of America
+US,2932.0,United States of America
+US,2933.0,United States of America
+US,2934.0,United States of America
+US,2935.0,United States of America
+US,2936.0,United States of America
+US,2938.0,United States of America
+GB,2939.0,United Kingdom
+US,2939.0,United States of America
+US,2940.0,United States of America
+US,2941.0,United States of America
+DE,2942.0,Germany
+US,2942.0,United States of America
+CN,2943.0,China
+HK,2943.0,Hong Kong
+US,2944.0,United States of America
+US,2945.0,United States of America
+GB,2946.0,United Kingdom
+US,2947.0,United States of America
+AU,2949.0,Australia
+GB,2949.0,United Kingdom
+US,2949.0,United States of America
+ES,2950.0,Spain
+CA,2951.0,Canada
+IT,2951.0,Italy
+US,2951.0,United States of America
+GB,2952.0,United Kingdom
+US,2953.0,United States of America
+US,2954.0,United States of America
+GB,2955.0,United Kingdom
+US,2955.0,United States of America
+US,2956.0,United States of America
+US,2957.0,United States of America
+US,2958.0,United States of America
+US,2959.0,United States of America
+IN,2960.0,India
+GB,2961.0,United Kingdom
+US,2962.0,United States of America
+CA,2962.0,Canada
+US,2963.0,United States of America
+JP,2964.0,Japan
+US,2965.0,United States of America
+GB,2966.0,United Kingdom
+US,2966.0,United States of America
+US,2967.0,United States of America
+US,2968.0,United States of America
+US,2969.0,United States of America
+DE,2970.0,Germany
+GB,2970.0,United Kingdom
+US,2970.0,United States of America
+US,2971.0,United States of America
+US,2972.0,United States of America
+CN,2973.0,China
+HK,2973.0,Hong Kong
+US,2974.0,United States of America
+CA,2975.0,Canada
+DE,2975.0,Germany
+US,2975.0,United States of America
+CA,2976.0,Canada
+US,2976.0,United States of America
+US,2977.0,United States of America
+US,2978.0,United States of America
+GB,2979.0,United Kingdom
+US,2980.0,United States of America
+IN,2981.0,India
+US,2982.0,United States of America
+US,2983.0,United States of America
+US,2984.0,United States of America
+US,2985.0,United States of America
+US,2986.0,United States of America
+US,2987.0,United States of America
+US,2988.0,United States of America
+IR,2989.0,Iran
+US,2990.0,United States of America
+US,2992.0,United States of America
+US,2993.0,United States of America
+US,2994.0,United States of America
+US,2995.0,United States of America
+US,2996.0,United States of America
+DK,2997.0,Denmark
+SE,2997.0,Sweden
+US,2998.0,United States of America
+US,2999.0,United States of America
+US,3000.0,United States of America
