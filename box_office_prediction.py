@@ -7,6 +7,14 @@ train_df = pd.read_csv('train.csv')
 train_df = train_df[train_df.budget > 0] #remove 0 values from budget
 train_df = train_df[pd.notnull(train_df['runtime'])] #remove null values from runtime
 
+#### Correlation ####
+# Correlation matrix with pandas
+print(train_df.corr())
+# Individual correlation with numpy
+print(np.corrcoef(train_df.budget, train_df.revenue)[0, 1]) # 0.7398
+print(np.corrcoef(train_df.popularity, train_df.revenue)[0, 1]) # 0.4444
+print(np.corrcoef(train_df.runtime, train_df.revenue)[0, 1]) # 0.2067
+
 # Declare X and y
 X = train_df[['budget']] #, 'popularity', 'runtime']]
 y = train_df['revenue']
@@ -16,11 +24,6 @@ plt.title("Budget and Revenue")
 plt.xlabel("Budget")
 plt.ylabel("Revenue")
 plt.show()
-
-# Correlation`
-print(np.corrcoef(train_df.budget, train_df.revenue)[0, 1])
-print(np.corrcoef(train_df.popularity, train_df.revenue)[0, 1])
-print(np.corrcoef(train_df.runtime, train_df.revenue)[0, 1])
 
 ####################################################################################
 # StatsModels

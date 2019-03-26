@@ -10,3 +10,9 @@ https://api.themoviedb.org/3/movie/550?api_key=fe83785c0487b3a9e237fa84b62eef57
 Documentation:
 https://www.themoviedb.org/documentation/api
 https://developers.themoviedb.org/3/getting-started/introduction
+
+Request Rate Limiting:
+Our current limits are 40 requests every 10 seconds and are limited by IP address, not API key.
+The timer will reset 10 seconds from your first request within the current 10 second "bucket".
+This means that if you trigger the limit you will have to wait up to 9 seconds before the timer resets but depending where you are within the 10 second window,
+it could be the very next second.
