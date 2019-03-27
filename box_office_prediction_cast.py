@@ -13,4 +13,10 @@ train_cast_df.rename(columns={'id': 'person_id'}, inplace=True)
 cast_df = pd.merge(train_df, train_cast_df, how='inner', on='movie_id')
 # pivot is for an index without duplicates and pivot_table is the opposite
 # print(cast_df.pivot(index='movie_id', columns='person_id', values='order'))
-print(cast_df.pivot_table(index='movie_id', columns='person_id', values='order'))
+#print(cast_df.pivot_table(index='movie_id', columns='person_id', values='order', aggfunc='sum'))
+
+test = cast_df.groupby(['movie_id', 'person_id'])['order'].sum().unstack()
+
+test.dropna(axis=1)
+
+test.to_csv('test.csv')
